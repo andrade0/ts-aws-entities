@@ -2,6 +2,6 @@ import { AwsCodedeployDeploymentGroupArgsProdTrafficRouteIntterface } from '../i
 
 
 export class AwsCodedeployDeploymentGroupArgsProdTrafficRoute implements AwsCodedeployDeploymentGroupArgsProdTrafficRouteIntterface {
-  	listener_arns: string;
+  listener_arns: string;
 
 }

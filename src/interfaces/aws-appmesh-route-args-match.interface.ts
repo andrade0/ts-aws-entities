@@ -1,6 +1,4 @@
-
-
 export interface AwsAppmeshRouteArgsMatchIntterface {
-  	prefix: string;
+  prefix: string;
 
 }

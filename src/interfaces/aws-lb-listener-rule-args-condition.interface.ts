@@ -1,7 +1,5 @@
-
-
 export interface AwsLbListenerRuleArgsConditionIntterface {
-  	field: string;
-	values: string;
+  field: string;
+  values: string;
 
 }

@@ -2,7 +2,7 @@ import { AwsCodedeployDeploymentConfigArgsMinimumHealthyHostsIntterface } from '
 
 
 export class AwsCodedeployDeploymentConfigArgsMinimumHealthyHosts implements AwsCodedeployDeploymentConfigArgsMinimumHealthyHostsIntterface {
-  	type: string;
-	value: string;
+  type: string;
+  value: string;
 
 }

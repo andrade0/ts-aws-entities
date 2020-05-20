@@ -1,6 +1,4 @@
-
-
 export interface AwsSecurityhubProductSubscriptionAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

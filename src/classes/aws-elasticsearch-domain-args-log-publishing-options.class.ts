@@ -2,8 +2,8 @@ import { AwsElasticsearchDomainArgsLogPublishingOptionsIntterface } from '../int
 
 
 export class AwsElasticsearchDomainArgsLogPublishingOptions implements AwsElasticsearchDomainArgsLogPublishingOptionsIntterface {
-  	log_type: string;
-	cloudwatch_log_group_arn: string;
-	enabled: string;
+  log_type: string;
+  cloudwatch_log_group_arn: string;
+  enabled: string;
 
 }

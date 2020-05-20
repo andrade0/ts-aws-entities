@@ -1,6 +1,4 @@
-
-
 export interface AwsRedshiftSubnetGroupAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -2,6 +2,6 @@ import { AwsS3BucketArgsServerSideEncryptionConfigurationIntterface } from '../i
 
 
 export class AwsS3BucketArgsServerSideEncryptionConfiguration implements AwsS3BucketArgsServerSideEncryptionConfigurationIntterface {
-  	rule: string;
+  rule: string;
 
 }

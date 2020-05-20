@@ -2,7 +2,7 @@ import { AwsAppautoscalingScheduledActionArgsScalableTargetActionIntterface } fr
 
 
 export class AwsAppautoscalingScheduledActionArgsScalableTargetAction implements AwsAppautoscalingScheduledActionArgsScalableTargetActionIntterface {
-  	max_capacity?: string;
-	min_capacity?: string;
+  max_capacity?: string;
+  min_capacity?: string;
 
 }

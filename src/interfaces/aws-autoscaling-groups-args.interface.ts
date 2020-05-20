@@ -1,6 +1,6 @@
 import { AwsAutoscalingGroupsArgsFilterIntterface } from '.';
 
 export interface AwsAutoscalingGroupsArgsIntterface {
-  	filter?: AwsAutoscalingGroupsArgsFilterIntterface;
+  filter?: AwsAutoscalingGroupsArgsFilterIntterface;
 
 }

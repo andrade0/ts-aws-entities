@@ -1,7 +1,5 @@
-
-
 export interface AwsCloudtrailServiceAccountAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

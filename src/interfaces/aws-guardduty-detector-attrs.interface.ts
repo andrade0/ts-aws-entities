@@ -1,7 +1,5 @@
-
-
 export interface AwsGuarddutyDetectorAttrsIntterface {
-  	id?: string;
-	account_id?: string;
+  id?: string;
+  account_id?: string;
 
 }

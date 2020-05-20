@@ -2,7 +2,7 @@ import { AwsSnsTopicPolicyArgsIntterface } from '../interfaces';
 
 
 export class AwsSnsTopicPolicyArgs implements AwsSnsTopicPolicyArgsIntterface {
-  	arn: string;
-	policy: string;
+  arn: string;
+  policy: string;
 
 }

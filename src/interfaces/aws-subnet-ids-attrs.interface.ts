@@ -1,6 +1,4 @@
-
-
 export interface AwsSubnetIdsAttrsIntterface {
-  	ids?: string;
+  ids?: string;
 
 }

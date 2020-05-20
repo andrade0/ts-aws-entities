@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksHaproxyLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

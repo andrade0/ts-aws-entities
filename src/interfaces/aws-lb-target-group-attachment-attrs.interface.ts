@@ -1,6 +1,4 @@
-
-
 export interface AwsLbTargetGroupAttachmentAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

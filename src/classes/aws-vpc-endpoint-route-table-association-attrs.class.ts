@@ -2,6 +2,6 @@ import { AwsVpcEndpointRouteTableAssociationAttrsIntterface } from '../interface
 
 
 export class AwsVpcEndpointRouteTableAssociationAttrs implements AwsVpcEndpointRouteTableAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

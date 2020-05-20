@@ -1,7 +1,5 @@
-
-
 export interface AwsIotPolicyAttachmentArgsIntterface {
-  	policy: string;
-	target: string;
+  policy: string;
+  target: string;
 
 }

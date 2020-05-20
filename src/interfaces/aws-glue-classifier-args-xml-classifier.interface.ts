@@ -1,7 +1,5 @@
-
-
 export interface AwsGlueClassifierArgsXmlClassifierIntterface {
-  	classification: string;
-	row_tag: string;
+  classification: string;
+  row_tag: string;
 
 }

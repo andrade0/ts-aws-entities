@@ -1,7 +1,5 @@
-
-
 export interface AwsDxConnectionAssociationArgsIntterface {
-  	connection_id: string;
-	lag_id: string;
+  connection_id: string;
+  lag_id: string;
 
 }

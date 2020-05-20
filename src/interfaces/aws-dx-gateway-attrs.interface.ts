@@ -1,6 +1,4 @@
-
-
 export interface AwsDxGatewayAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

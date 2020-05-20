@@ -2,10 +2,10 @@ import { AwsElastictranscoderPipelineArgsThumbnailConfigIntterface } from '../in
 
 
 export class AwsElastictranscoderPipelineArgsThumbnailConfig implements AwsElastictranscoderPipelineArgsThumbnailConfigIntterface {
-  	bucket: string;
-	storage_class: string;
-	access: string;
-	grantee: string;
-	grantee_type: string;
+  bucket: string;
+  storage_class: string;
+  access: string;
+  grantee: string;
+  grantee_type: string;
 
 }

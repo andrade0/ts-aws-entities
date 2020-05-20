@@ -1,6 +1,4 @@
-
-
 export interface AwsCodedeployDeploymentGroupArgsTargetGroupIntterface {
-  	name: string;
+  name: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsSesConfigurationSetArgsIntterface {
-  	name: string;
+  name: string;
 
 }

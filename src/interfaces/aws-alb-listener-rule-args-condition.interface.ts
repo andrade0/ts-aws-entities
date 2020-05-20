@@ -1,7 +1,5 @@
-
-
 export interface AwsAlbListenerRuleArgsConditionIntterface {
-  	field: string;
-	values: string;
+  field: string;
+  values: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsWafGeoMatchSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

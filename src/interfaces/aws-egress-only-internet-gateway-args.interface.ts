@@ -1,6 +1,4 @@
-
-
 export interface AwsEgressOnlyInternetGatewayArgsIntterface {
-  	vpc_id: string;
+  vpc_id: string;
 
 }

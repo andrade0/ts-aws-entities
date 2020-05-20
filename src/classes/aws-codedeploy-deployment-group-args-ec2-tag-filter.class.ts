@@ -2,8 +2,8 @@ import { AwsCodedeployDeploymentGroupArgsEc2TagFilterIntterface } from '../inter
 
 
 export class AwsCodedeployDeploymentGroupArgsEc2TagFilter implements AwsCodedeployDeploymentGroupArgsEc2TagFilterIntterface {
-  	key?: string;
-	type?: string;
-	value?: string;
+  key?: string;
+  type?: string;
+  value?: string;
 
 }

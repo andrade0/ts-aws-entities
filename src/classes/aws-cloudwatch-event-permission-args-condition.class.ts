@@ -2,8 +2,8 @@ import { AwsCloudwatchEventPermissionArgsConditionIntterface } from '../interfac
 
 
 export class AwsCloudwatchEventPermissionArgsCondition implements AwsCloudwatchEventPermissionArgsConditionIntterface {
-  	key: string;
-	type: string;
-	value: string;
+  key: string;
+  type: string;
+  value: string;
 
 }

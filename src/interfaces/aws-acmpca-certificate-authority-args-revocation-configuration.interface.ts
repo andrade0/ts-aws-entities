@@ -1,6 +1,4 @@
-
-
 export interface AwsAcmpcaCertificateAuthorityArgsRevocationConfigurationIntterface {
-  	crl_configuration?: string;
+  crl_configuration?: string;
 
 }

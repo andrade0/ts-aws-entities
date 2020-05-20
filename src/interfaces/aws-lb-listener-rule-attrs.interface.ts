@@ -1,7 +1,5 @@
-
-
 export interface AwsLbListenerRuleAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

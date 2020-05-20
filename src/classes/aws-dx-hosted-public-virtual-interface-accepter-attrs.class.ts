@@ -2,7 +2,7 @@ import { AwsDxHostedPublicVirtualInterfaceAccepterAttrsIntterface } from '../int
 
 
 export class AwsDxHostedPublicVirtualInterfaceAccepterAttrs implements AwsDxHostedPublicVirtualInterfaceAccepterAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

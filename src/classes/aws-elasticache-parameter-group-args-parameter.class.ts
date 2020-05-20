@@ -2,7 +2,7 @@ import { AwsElasticacheParameterGroupArgsParameterIntterface } from '../interfac
 
 
 export class AwsElasticacheParameterGroupArgsParameter implements AwsElasticacheParameterGroupArgsParameterIntterface {
-  	name: string;
-	value: string;
+  name: string;
+  value: string;
 
 }

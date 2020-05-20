@@ -1,6 +1,4 @@
-
-
 export interface AwsCodedeployDeploymentGroupArgsTestTrafficRouteIntterface {
-  	listener_arns: string;
+  listener_arns: string;
 
 }

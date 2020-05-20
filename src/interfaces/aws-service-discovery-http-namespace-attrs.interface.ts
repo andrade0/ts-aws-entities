@@ -1,7 +1,5 @@
-
-
 export interface AwsServiceDiscoveryHttpNamespaceAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

@@ -2,7 +2,7 @@ import { AwsAutoscalingGroupArgsMixedInstancesPolicyIntterface } from '../interf
 
 
 export class AwsAutoscalingGroupArgsMixedInstancesPolicy implements AwsAutoscalingGroupArgsMixedInstancesPolicyIntterface {
-  	instances_distribution?: string;
-	launch_template: string;
+  instances_distribution?: string;
+  launch_template: string;
 
 }

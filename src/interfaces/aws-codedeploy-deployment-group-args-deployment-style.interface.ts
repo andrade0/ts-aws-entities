@@ -1,7 +1,5 @@
-
-
 export interface AwsCodedeployDeploymentGroupArgsDeploymentStyleIntterface {
-  	deployment_option?: string;
-	deployment_type?: string;
+  deployment_option?: string;
+  deployment_type?: string;
 
 }

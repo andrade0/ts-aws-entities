@@ -2,7 +2,7 @@ import { AwsConfigConfigurationRecorderStatusArgsIntterface } from '../interface
 
 
 export class AwsConfigConfigurationRecorderStatusArgs implements AwsConfigConfigurationRecorderStatusArgsIntterface {
-  	name: string;
-	is_enabled: string;
+  name: string;
+  is_enabled: string;
 
 }

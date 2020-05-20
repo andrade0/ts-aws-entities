@@ -1,6 +1,4 @@
-
-
 export interface AwsS3BucketArgsServerSideEncryptionConfigurationIntterface {
-  	rule: string;
+  rule: string;
 
 }

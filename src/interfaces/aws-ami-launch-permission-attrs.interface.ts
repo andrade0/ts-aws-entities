@@ -1,6 +1,4 @@
-
-
 export interface AwsAmiLaunchPermissionAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

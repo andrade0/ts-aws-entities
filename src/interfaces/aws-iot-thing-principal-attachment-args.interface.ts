@@ -1,7 +1,5 @@
-
-
 export interface AwsIotThingPrincipalAttachmentArgsIntterface {
-  	principal: string;
-	thing: string;
+  principal: string;
+  thing: string;
 
 }

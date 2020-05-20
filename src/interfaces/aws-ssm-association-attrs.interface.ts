@@ -1,8 +1,6 @@
-
-
 export interface AwsSsmAssociationAttrsIntterface {
-  	name?: string;
-	instance_ids?: string;
-	parameters?: string;
+  name?: string;
+  instance_ids?: string;
+  parameters?: string;
 
 }

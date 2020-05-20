@@ -1,6 +1,4 @@
-
-
 export interface AwsWafregionalRegexMatchSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

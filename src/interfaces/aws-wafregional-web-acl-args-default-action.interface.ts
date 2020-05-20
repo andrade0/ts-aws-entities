@@ -1,6 +1,4 @@
-
-
 export interface AwsWafregionalWebAclArgsDefaultActionIntterface {
-  	type: string;
+  type: string;
 
 }

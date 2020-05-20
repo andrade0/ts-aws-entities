@@ -2,6 +2,6 @@ import { AwsApiGatewayDomainNameArgsEndpointConfigurationIntterface } from '../i
 
 
 export class AwsApiGatewayDomainNameArgsEndpointConfiguration implements AwsApiGatewayDomainNameArgsEndpointConfigurationIntterface {
-  	types: string;
+  types: string;
 
 }

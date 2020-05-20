@@ -1,7 +1,5 @@
-
-
 export interface AwsRouteTableAttrsIntterface {
-  	id?: string;
-	owner_id?: string;
+  id?: string;
+  owner_id?: string;
 
 }

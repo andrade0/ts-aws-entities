@@ -1,7 +1,5 @@
-
-
 export interface AwsSnsPlatformApplicationAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

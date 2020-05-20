@@ -1,7 +1,5 @@
-
-
 export interface AwsEcsTaskDefinitionArgsPlacementConstraintsIntterface {
-  	type: string;
-	expression?: string;
+  type: string;
+  expression?: string;
 
 }

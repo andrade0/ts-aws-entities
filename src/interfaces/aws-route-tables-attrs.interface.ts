@@ -1,6 +1,4 @@
-
-
 export interface AwsRouteTablesAttrsIntterface {
-  	ids?: string;
+  ids?: string;
 
 }

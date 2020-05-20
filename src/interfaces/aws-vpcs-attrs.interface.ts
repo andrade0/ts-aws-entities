@@ -1,6 +1,4 @@
-
-
 export interface AwsVpcsAttrsIntterface {
-  	ids?: string;
+  ids?: string;
 
 }

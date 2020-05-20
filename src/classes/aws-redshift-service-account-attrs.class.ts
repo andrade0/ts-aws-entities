@@ -2,7 +2,7 @@ import { AwsRedshiftServiceAccountAttrsIntterface } from '../interfaces';
 
 
 export class AwsRedshiftServiceAccountAttrs implements AwsRedshiftServiceAccountAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

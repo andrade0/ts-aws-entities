@@ -1,7 +1,5 @@
-
-
 export interface AwsSecurityGroupsArgsIntterface {
-  	tags?: string;
-	filter?: string;
+  tags?: string;
+  filter?: string;
 
 }

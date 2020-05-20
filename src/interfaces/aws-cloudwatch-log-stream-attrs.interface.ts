@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchLogStreamAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

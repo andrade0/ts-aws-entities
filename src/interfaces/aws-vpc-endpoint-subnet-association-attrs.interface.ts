@@ -1,6 +1,4 @@
-
-
 export interface AwsVpcEndpointSubnetAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

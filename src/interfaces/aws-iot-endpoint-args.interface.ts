@@ -1,6 +1,4 @@
-
-
 export interface AwsIotEndpointArgsIntterface {
-  	endpoint_type?: string;
+  endpoint_type?: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsDynamodbGlobalTableAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

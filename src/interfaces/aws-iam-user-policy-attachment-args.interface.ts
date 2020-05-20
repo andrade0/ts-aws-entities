@@ -1,7 +1,5 @@
-
-
 export interface AwsIamUserPolicyAttachmentArgsIntterface {
-  	user: string;
-	policy_arn: string;
+  user: string;
+  policy_arn: string;
 
 }

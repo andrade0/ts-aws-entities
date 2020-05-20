@@ -1,7 +1,5 @@
-
-
 export interface AwsCodepipelineWebhookArgsFilterIntterface {
-  	json_path: string;
-	match_equals: string;
+  json_path: string;
+  match_equals: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsMediaPackageChannelArgsIntterface {
-  	channel_id: string;
-	description?: string;
+  channel_id: string;
+  description?: string;
 
 }

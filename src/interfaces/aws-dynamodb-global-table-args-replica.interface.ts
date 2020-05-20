@@ -1,6 +1,4 @@
-
-
 export interface AwsDynamodbGlobalTableArgsReplicaIntterface {
-  	region_name: string;
+  region_name: string;
 
 }

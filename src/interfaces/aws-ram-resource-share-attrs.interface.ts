@@ -1,6 +1,4 @@
-
-
 export interface AwsRamResourceShareAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

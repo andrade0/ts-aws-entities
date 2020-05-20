@@ -2,7 +2,7 @@ import { AwsCodedeployDeploymentGroupArgsDeploymentStyleIntterface } from '../in
 
 
 export class AwsCodedeployDeploymentGroupArgsDeploymentStyle implements AwsCodedeployDeploymentGroupArgsDeploymentStyleIntterface {
-  	deployment_option?: string;
-	deployment_type?: string;
+  deployment_option?: string;
+  deployment_type?: string;
 
 }

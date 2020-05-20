@@ -1,8 +1,6 @@
-
-
 export interface AwsNeptuneEventSubscriptionArgsIdIntterface {
-  	create: string;
-	delete: string;
-	update: string;
+  create: string;
+  delete: string;
+  update: string;
 
 }

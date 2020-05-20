@@ -1,6 +1,4 @@
-
-
 export interface AwsGameliftGameSessionQueueAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsSecretsmanagerSecretArgsRotationRulesIntterface {
-  	automatically_after_days: string;
+  automatically_after_days: string;
 
 }

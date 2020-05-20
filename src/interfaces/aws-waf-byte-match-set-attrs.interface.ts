@@ -1,6 +1,4 @@
-
-
 export interface AwsWafByteMatchSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

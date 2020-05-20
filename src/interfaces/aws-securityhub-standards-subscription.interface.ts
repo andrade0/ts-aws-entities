@@ -1,11 +1,14 @@
-import { AwsSecurityhubStandardsSubscriptionArgsIntterface, AwsSecurityhubStandardsSubscriptionAttrsIntterface } from '.';
+import {
+  AwsSecurityhubStandardsSubscriptionArgsIntterface,
+  AwsSecurityhubStandardsSubscriptionAttrsIntterface,
+} from '.';
 
 export interface AwsSecurityhubStandardsSubscriptionIntterface {
-  	name: string;
-	type: string;
-	url: string;
-	groupName: string;
-	args: AwsSecurityhubStandardsSubscriptionArgsIntterface;
-	attrs: AwsSecurityhubStandardsSubscriptionAttrsIntterface;
+  name: string;
+  type: string;
+  url: string;
+  groupName: string;
+  args: AwsSecurityhubStandardsSubscriptionArgsIntterface;
+  attrs: AwsSecurityhubStandardsSubscriptionAttrsIntterface;
 
 }

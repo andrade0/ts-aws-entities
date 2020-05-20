@@ -1,6 +1,4 @@
-
-
 export interface AwsGlacierVaultLockAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

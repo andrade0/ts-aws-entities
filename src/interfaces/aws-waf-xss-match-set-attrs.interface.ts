@@ -1,6 +1,4 @@
-
-
 export interface AwsWafXssMatchSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

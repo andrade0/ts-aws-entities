@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksApplicationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

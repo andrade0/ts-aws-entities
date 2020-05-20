@@ -2,7 +2,7 @@ import { AwsCognitoUserPoolArgsEmailConfigurationIntterface } from '../interface
 
 
 export class AwsCognitoUserPoolArgsEmailConfiguration implements AwsCognitoUserPoolArgsEmailConfigurationIntterface {
-  	reply_to_email_address?: string;
-	source_arn?: string;
+  reply_to_email_address?: string;
+  source_arn?: string;
 
 }

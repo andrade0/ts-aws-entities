@@ -2,5 +2,5 @@ import { AwsEc2TransitGatewayRouteTableAssociationAttrsIntterface } from '../int
 
 
 export class AwsEc2TransitGatewayRouteTableAssociationAttrs implements AwsEc2TransitGatewayRouteTableAssociationAttrsIntterface {
-  
+
 }

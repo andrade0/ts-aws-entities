@@ -1,7 +1,5 @@
-
-
 export interface AwsIamUserGroupMembershipArgsIntterface {
-  	user: string;
-	groups: string;
+  user: string;
+  groups: string;
 
 }

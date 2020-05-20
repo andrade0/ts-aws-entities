@@ -1,6 +1,4 @@
-
-
 export interface AwsLicensemanagerLicenseConfigurationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

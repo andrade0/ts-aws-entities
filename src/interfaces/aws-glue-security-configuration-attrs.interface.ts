@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueSecurityConfigurationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

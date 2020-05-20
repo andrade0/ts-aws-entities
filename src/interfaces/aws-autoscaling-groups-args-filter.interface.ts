@@ -1,7 +1,5 @@
-
-
 export interface AwsAutoscalingGroupsArgsFilterIntterface {
-  	name: string;
-	values: string;
+  name: string;
+  values: string;
 
 }

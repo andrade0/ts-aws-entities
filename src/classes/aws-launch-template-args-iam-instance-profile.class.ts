@@ -2,7 +2,7 @@ import { AwsLaunchTemplateArgsIamInstanceProfileIntterface } from '../interfaces
 
 
 export class AwsLaunchTemplateArgsIamInstanceProfile implements AwsLaunchTemplateArgsIamInstanceProfileIntterface {
-  	arn: string;
-	name: string;
+  arn: string;
+  name: string;
 
 }

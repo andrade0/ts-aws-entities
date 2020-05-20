@@ -1,7 +1,5 @@
-
-
 export interface AwsCodedeployDeploymentConfigAttrsIntterface {
-  	id?: string;
-	deployment_config_id?: string;
+  id?: string;
+  deployment_config_id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsSnapshotCreateVolumePermissionAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

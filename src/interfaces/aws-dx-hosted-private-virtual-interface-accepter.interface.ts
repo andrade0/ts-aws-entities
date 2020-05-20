@@ -1,11 +1,14 @@
-import { AwsDxHostedPrivateVirtualInterfaceAccepterArgsIntterface, AwsDxHostedPrivateVirtualInterfaceAccepterAttrsIntterface } from '.';
+import {
+  AwsDxHostedPrivateVirtualInterfaceAccepterArgsIntterface,
+  AwsDxHostedPrivateVirtualInterfaceAccepterAttrsIntterface,
+} from '.';
 
 export interface AwsDxHostedPrivateVirtualInterfaceAccepterIntterface {
-  	name: string;
-	type: string;
-	url: string;
-	groupName: string;
-	args: AwsDxHostedPrivateVirtualInterfaceAccepterArgsIntterface;
-	attrs: AwsDxHostedPrivateVirtualInterfaceAccepterAttrsIntterface;
+  name: string;
+  type: string;
+  url: string;
+  groupName: string;
+  args: AwsDxHostedPrivateVirtualInterfaceAccepterArgsIntterface;
+  attrs: AwsDxHostedPrivateVirtualInterfaceAccepterAttrsIntterface;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsOrganizationsPolicyAttachmentArgsIntterface {
-  	policy_id: string;
-	target_id: string;
+  policy_id: string;
+  target_id: string;
 
 }

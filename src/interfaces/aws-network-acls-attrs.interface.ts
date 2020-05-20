@@ -1,6 +1,4 @@
-
-
 export interface AwsNetworkAclsAttrsIntterface {
-  	ids?: string;
+  ids?: string;
 
 }

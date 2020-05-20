@@ -1,7 +1,5 @@
-
-
 export interface AwsIotPolicyArgsIntterface {
-  	name: string;
-	policy: string;
+  name: string;
+  policy: string;
 
 }

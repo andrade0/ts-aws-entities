@@ -1,6 +1,4 @@
-
-
 export interface AwsSecurityhubAccountAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

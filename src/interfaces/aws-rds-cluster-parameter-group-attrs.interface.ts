@@ -1,7 +1,5 @@
-
-
 export interface AwsRdsClusterParameterGroupAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueJobAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

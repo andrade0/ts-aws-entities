@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksStaticWebLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

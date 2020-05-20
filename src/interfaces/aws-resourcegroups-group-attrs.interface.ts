@@ -1,6 +1,4 @@
-
-
 export interface AwsResourcegroupsGroupAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

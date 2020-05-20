@@ -1,7 +1,5 @@
-
-
 export interface AwsS3BucketPolicyArgsIntterface {
-  	bucket: string;
-	policy: string;
+  bucket: string;
+  policy: string;
 
 }

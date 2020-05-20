@@ -1,8 +1,6 @@
-
-
 export interface AwsCloudfrontDistributionArgsLoggingConfigIntterface {
-  	bucket: string;
-	include_cookies?: string;
-	prefix?: string;
+  bucket: string;
+  include_cookies?: string;
+  prefix?: string;
 
 }

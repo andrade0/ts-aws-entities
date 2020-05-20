@@ -1,7 +1,5 @@
-
-
 export interface AwsGlueCrawlerArgsS3TargetIntterface {
-  	path: string;
-	exclusions?: string;
+  path: string;
+  exclusions?: string;
 
 }

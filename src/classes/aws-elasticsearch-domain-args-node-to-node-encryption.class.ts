@@ -2,6 +2,6 @@ import { AwsElasticsearchDomainArgsNodeToNodeEncryptionIntterface } from '../int
 
 
 export class AwsElasticsearchDomainArgsNodeToNodeEncryption implements AwsElasticsearchDomainArgsNodeToNodeEncryptionIntterface {
-  	enabled: string;
+  enabled: string;
 
 }

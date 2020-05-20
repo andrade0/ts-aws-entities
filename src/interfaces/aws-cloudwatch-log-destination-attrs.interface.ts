@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchLogDestinationAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

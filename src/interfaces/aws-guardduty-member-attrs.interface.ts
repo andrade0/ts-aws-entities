@@ -1,7 +1,5 @@
-
-
 export interface AwsGuarddutyMemberAttrsIntterface {
-  	id?: string;
-	relationship_status?: string;
+  id?: string;
+  relationship_status?: string;
 
 }

@@ -2,9 +2,9 @@ import { AwsElasticBeanstalkEnvironmentArgsSettingIntterface } from '../interfac
 
 
 export class AwsElasticBeanstalkEnvironmentArgsSetting implements AwsElasticBeanstalkEnvironmentArgsSettingIntterface {
-  	namespace: string;
-	name: string;
-	value: string;
-	resource?: string;
+  namespace: string;
+  name: string;
+  value: string;
+  resource?: string;
 
 }

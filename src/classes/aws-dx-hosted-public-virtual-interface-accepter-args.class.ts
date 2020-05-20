@@ -2,7 +2,7 @@ import { AwsDxHostedPublicVirtualInterfaceAccepterArgsIntterface } from '../inte
 
 
 export class AwsDxHostedPublicVirtualInterfaceAccepterArgs implements AwsDxHostedPublicVirtualInterfaceAccepterArgsIntterface {
-  	virtual_interface_id: string;
-	tags?: string;
+  virtual_interface_id: string;
+  tags?: string;
 
 }

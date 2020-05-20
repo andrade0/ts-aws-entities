@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueConnectionAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

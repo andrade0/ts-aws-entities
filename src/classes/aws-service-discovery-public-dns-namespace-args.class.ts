@@ -2,7 +2,7 @@ import { AwsServiceDiscoveryPublicDnsNamespaceArgsIntterface } from '../interfac
 
 
 export class AwsServiceDiscoveryPublicDnsNamespaceArgs implements AwsServiceDiscoveryPublicDnsNamespaceArgsIntterface {
-  	name: string;
-	description?: string;
+  name: string;
+  description?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksCustomLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

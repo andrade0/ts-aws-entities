@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchLogMetricFilterAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

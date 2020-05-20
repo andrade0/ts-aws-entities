@@ -1,6 +1,4 @@
-
-
 export interface AwsWorkspacesBundleArgsIntterface {
-  	bundle_id: string;
+  bundle_id: string;
 
 }

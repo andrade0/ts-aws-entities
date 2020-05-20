@@ -1,6 +1,4 @@
-
-
 export interface AwsIotEndpointAttrsIntterface {
-  	endpoint_address?: string;
+  endpoint_address?: string;
 
 }

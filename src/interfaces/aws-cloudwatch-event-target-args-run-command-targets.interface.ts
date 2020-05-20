@@ -1,7 +1,5 @@
-
-
 export interface AwsCloudwatchEventTargetArgsRunCommandTargetsIntterface {
-  	key: string;
-	values: string;
+  key: string;
+  values: string;
 
 }

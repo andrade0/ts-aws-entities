@@ -1,7 +1,5 @@
-
-
 export interface AwsCodepipelineAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

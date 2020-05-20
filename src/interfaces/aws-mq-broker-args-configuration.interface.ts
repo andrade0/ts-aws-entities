@@ -1,7 +1,5 @@
-
-
 export interface AwsMqBrokerArgsConfigurationIntterface {
-  	id?: string;
-	revision?: string;
+  id?: string;
+  revision?: string;
 
 }

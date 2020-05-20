@@ -1,6 +1,4 @@
-
-
 export interface AwsSecurityhubStandardsSubscriptionAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

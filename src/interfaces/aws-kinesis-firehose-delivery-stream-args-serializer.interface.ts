@@ -1,7 +1,5 @@
-
-
 export interface AwsKinesisFirehoseDeliveryStreamArgsSerializerIntterface {
-  	orc_ser_de?: string;
-	parquet_ser_de?: string;
+  orc_ser_de?: string;
+  parquet_ser_de?: string;
 
 }

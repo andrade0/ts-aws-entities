@@ -1,6 +1,4 @@
-
-
 export interface AwsMacieMemberAccountAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

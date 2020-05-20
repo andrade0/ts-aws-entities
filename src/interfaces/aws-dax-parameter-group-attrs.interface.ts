@@ -1,6 +1,4 @@
-
-
 export interface AwsDaxParameterGroupAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

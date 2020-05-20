@@ -1,9 +1,7 @@
-
-
 export interface AwsIamRolePolicyAttrsIntterface {
-  	id?: string;
-	name?: string;
-	policy?: string;
-	role?: string;
+  id?: string;
+  name?: string;
+  policy?: string;
+  role?: string;
 
 }

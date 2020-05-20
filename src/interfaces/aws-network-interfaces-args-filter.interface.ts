@@ -1,7 +1,5 @@
-
-
 export interface AwsNetworkInterfacesArgsFilterIntterface {
-  	name: string;
-	values: string;
+  name: string;
+  values: string;
 
 }

@@ -1,8 +1,6 @@
-
-
 export interface AwsIamGroupMembershipAttrsIntterface {
-  	name?: string;
-	users?: string;
-	group?: string;
+  name?: string;
+  users?: string;
+  group?: string;
 
 }

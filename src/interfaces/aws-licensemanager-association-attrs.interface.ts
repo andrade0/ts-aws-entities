@@ -1,6 +1,4 @@
-
-
 export interface AwsLicensemanagerAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

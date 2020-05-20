@@ -2,6 +2,6 @@ import { AwsDynamodbTableArgsServerSideEncryptionIntterface } from '../interface
 
 
 export class AwsDynamodbTableArgsServerSideEncryption implements AwsDynamodbTableArgsServerSideEncryptionIntterface {
-  	enabled: string;
+  enabled: string;
 
 }

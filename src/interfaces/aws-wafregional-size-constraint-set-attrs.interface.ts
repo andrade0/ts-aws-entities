@@ -1,6 +1,4 @@
-
-
 export interface AwsWafregionalSizeConstraintSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsConfigDeliveryChannelAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

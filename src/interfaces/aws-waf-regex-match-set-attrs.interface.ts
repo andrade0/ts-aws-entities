@@ -1,6 +1,4 @@
-
-
 export interface AwsWafRegexMatchSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

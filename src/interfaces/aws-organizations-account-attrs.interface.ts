@@ -1,7 +1,5 @@
-
-
 export interface AwsOrganizationsAccountAttrsIntterface {
-  	arn?: string;
-	id?: string;
+  arn?: string;
+  id?: string;
 
 }

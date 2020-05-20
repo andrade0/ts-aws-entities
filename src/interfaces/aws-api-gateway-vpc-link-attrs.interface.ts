@@ -1,6 +1,4 @@
-
-
 export interface AwsApiGatewayVpcLinkAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

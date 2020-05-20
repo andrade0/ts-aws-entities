@@ -1,6 +1,4 @@
-
-
 export interface AwsGuarddutyIpsetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

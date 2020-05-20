@@ -1,8 +1,6 @@
-
-
 export interface AwsDbEventSubscriptionArgsIdIntterface {
-  	create: string;
-	delete: string;
-	update: string;
+  create: string;
+  delete: string;
+  update: string;
 
 }

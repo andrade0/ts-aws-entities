@@ -1,7 +1,5 @@
-
-
 export interface AwsSnsTopicAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

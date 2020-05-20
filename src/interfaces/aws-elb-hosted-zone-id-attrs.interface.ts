@@ -1,6 +1,4 @@
-
-
 export interface AwsElbHostedZoneIdAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

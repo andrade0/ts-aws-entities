@@ -1,6 +1,4 @@
-
-
 export interface AwsSesDomainMailFromAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

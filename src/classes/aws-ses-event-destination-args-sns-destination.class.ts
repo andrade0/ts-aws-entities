@@ -2,6 +2,6 @@ import { AwsSesEventDestinationArgsSnsDestinationIntterface } from '../interface
 
 
 export class AwsSesEventDestinationArgsSnsDestination implements AwsSesEventDestinationArgsSnsDestinationIntterface {
-  	topic_arn: string;
+  topic_arn: string;
 
 }

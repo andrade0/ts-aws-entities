@@ -1,7 +1,5 @@
-
-
 export interface AwsIamPolicyAttachmentAttrsIntterface {
-  	id?: string;
-	name?: string;
+  id?: string;
+  name?: string;
 
 }

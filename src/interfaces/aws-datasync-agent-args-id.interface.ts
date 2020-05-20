@@ -1,6 +1,4 @@
-
-
 export interface AwsDatasyncAgentArgsIdIntterface {
-  	create: string;
+  create: string;
 
 }

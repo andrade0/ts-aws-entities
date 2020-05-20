@@ -1,6 +1,4 @@
-
-
 export interface AwsAppautoscalingScheduledActionAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

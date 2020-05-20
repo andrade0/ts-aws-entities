@@ -1,6 +1,4 @@
-
-
 export interface AwsConfigConfigurationRecorderAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

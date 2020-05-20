@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueJobArgsExecutionPropertyIntterface {
-  	max_concurrent_runs?: string;
+  max_concurrent_runs?: string;
 
 }

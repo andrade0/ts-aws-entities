@@ -1,7 +1,5 @@
-
-
 export interface AwsDefaultVpcDhcpOptionsAttrsIntterface {
-  	id?: string;
-	owner_id?: string;
+  id?: string;
+  owner_id?: string;
 
 }

@@ -2,6 +2,6 @@ import { AwsLicensemanagerLicenseConfigurationAttrsIntterface } from '../interfa
 
 
 export class AwsLicensemanagerLicenseConfigurationAttrs implements AwsLicensemanagerLicenseConfigurationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

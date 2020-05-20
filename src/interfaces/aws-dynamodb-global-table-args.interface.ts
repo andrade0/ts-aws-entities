@@ -1,7 +1,7 @@
 import { AwsDynamodbGlobalTableArgsReplicaIntterface } from '.';
 
 export interface AwsDynamodbGlobalTableArgsIntterface {
-  	name: string;
-	replica: AwsDynamodbGlobalTableArgsReplicaIntterface;
+  name: string;
+  replica: AwsDynamodbGlobalTableArgsReplicaIntterface;
 
 }

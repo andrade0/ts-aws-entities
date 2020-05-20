@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudformationExportArgsIntterface {
-  	name: string;
+  name: string;
 
 }

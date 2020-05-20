@@ -1,8 +1,6 @@
-
-
 export interface AwsCodedeployAppArgsIntterface {
-  	name: string;
-	compute_platform?: string;
-	id: string;
+  name: string;
+  compute_platform?: string;
+  id: string;
 
 }

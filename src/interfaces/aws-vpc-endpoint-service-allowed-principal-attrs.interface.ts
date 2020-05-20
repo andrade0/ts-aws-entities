@@ -1,6 +1,4 @@
-
-
 export interface AwsVpcEndpointServiceAllowedPrincipalAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

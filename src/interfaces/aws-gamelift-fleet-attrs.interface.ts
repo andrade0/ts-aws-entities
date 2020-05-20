@@ -1,8 +1,6 @@
-
-
 export interface AwsGameliftFleetAttrsIntterface {
-  	id?: string;
-	arn?: string;
-	operating_system?: string;
+  id?: string;
+  arn?: string;
+  operating_system?: string;
 
 }

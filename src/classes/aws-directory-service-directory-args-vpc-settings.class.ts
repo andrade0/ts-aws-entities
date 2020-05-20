@@ -2,7 +2,7 @@ import { AwsDirectoryServiceDirectoryArgsVpcSettingsIntterface } from '../interf
 
 
 export class AwsDirectoryServiceDirectoryArgsVpcSettings implements AwsDirectoryServiceDirectoryArgsVpcSettingsIntterface {
-  	subnet_ids: string;
-	vpc_id: string;
+  subnet_ids: string;
+  vpc_id: string;
 
 }

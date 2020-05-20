@@ -1,7 +1,5 @@
-
-
 export interface AwsResourcegroupsGroupArgsResourceQueryIntterface {
-  	query: string;
-	type: string;
+  query: string;
+  type: string;
 
 }

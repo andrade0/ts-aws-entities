@@ -1,8 +1,6 @@
-
-
 export interface AwsDbParameterGroupArgsParameterIntterface {
-  	name: string;
-	value: string;
-	apply_method?: string;
+  name: string;
+  value: string;
+  apply_method?: string;
 
 }

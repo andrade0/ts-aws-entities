@@ -2,9 +2,9 @@ import { AwsGameliftFleetArgsEc2InboundPermissionIntterface } from '../interface
 
 
 export class AwsGameliftFleetArgsEc2InboundPermission implements AwsGameliftFleetArgsEc2InboundPermissionIntterface {
-  	from_port: string;
-	ip_range: string;
-	protocol: string;
-	to_port: string;
+  from_port: string;
+  ip_range: string;
+  protocol: string;
+  to_port: string;
 
 }

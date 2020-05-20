@@ -1,6 +1,4 @@
-
-
 export interface AwsDmsReplicationSubnetGroupAttrsIntterface {
-  	vpc_id?: string;
+  vpc_id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsSsmPatchBaselineAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

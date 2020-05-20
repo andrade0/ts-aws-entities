@@ -2,7 +2,7 @@ import { AwsMediaStoreContainerAttrsIntterface } from '../interfaces';
 
 
 export class AwsMediaStoreContainerAttrs implements AwsMediaStoreContainerAttrsIntterface {
-  	arn?: string;
-	endpoint?: string;
+  arn?: string;
+  endpoint?: string;
 
 }

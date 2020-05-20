@@ -2,7 +2,7 @@ import { AwsKinesisFirehoseDeliveryStreamArgsProcessingConfigurationIntterface }
 
 
 export class AwsKinesisFirehoseDeliveryStreamArgsProcessingConfiguration implements AwsKinesisFirehoseDeliveryStreamArgsProcessingConfigurationIntterface {
-  	enabled?: string;
-	processors?: string;
+  enabled?: string;
+  processors?: string;
 
 }

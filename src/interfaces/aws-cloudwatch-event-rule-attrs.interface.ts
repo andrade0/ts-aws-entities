@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchEventRuleAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

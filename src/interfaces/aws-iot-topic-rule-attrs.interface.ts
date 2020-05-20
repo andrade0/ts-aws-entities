@@ -1,7 +1,5 @@
-
-
 export interface AwsIotTopicRuleAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

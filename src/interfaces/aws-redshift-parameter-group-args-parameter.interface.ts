@@ -1,7 +1,5 @@
-
-
 export interface AwsRedshiftParameterGroupArgsParameterIntterface {
-  	name: string;
-	value: string;
+  name: string;
+  value: string;
 
 }

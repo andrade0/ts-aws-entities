@@ -1,6 +1,4 @@
-
-
 export interface AwsDmsEndpointAttrsIntterface {
-  	endpoint_arn?: string;
+  endpoint_arn?: string;
 
 }

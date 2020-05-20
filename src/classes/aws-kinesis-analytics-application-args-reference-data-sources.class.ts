@@ -2,8 +2,8 @@ import { AwsKinesisAnalyticsApplicationArgsReferenceDataSourcesIntterface } from
 
 
 export class AwsKinesisAnalyticsApplicationArgsReferenceDataSources implements AwsKinesisAnalyticsApplicationArgsReferenceDataSourcesIntterface {
-  	schema: string;
-	table_name: string;
-	s3?: string;
+  schema: string;
+  table_name: string;
+  s3?: string;
 
 }

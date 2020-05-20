@@ -1,8 +1,6 @@
-
-
 export interface AwsServiceDiscoveryPrivateDnsNamespaceArgsIntterface {
-  	name: string;
-	vpc: string;
-	description?: string;
+  name: string;
+  vpc: string;
+  description?: string;
 
 }

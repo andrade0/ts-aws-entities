@@ -2,6 +2,6 @@ import { AwsLaunchTemplateArgsElasticGpuSpecificationsIntterface } from '../inte
 
 
 export class AwsLaunchTemplateArgsElasticGpuSpecifications implements AwsLaunchTemplateArgsElasticGpuSpecificationsIntterface {
-  	type: string;
+  type: string;
 
 }

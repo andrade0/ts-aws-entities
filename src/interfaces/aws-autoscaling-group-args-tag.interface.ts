@@ -1,8 +1,6 @@
-
-
 export interface AwsAutoscalingGroupArgsTagIntterface {
-  	key: string;
-	value: string;
-	propagate_at_launch: string;
+  key: string;
+  value: string;
+  propagate_at_launch: string;
 
 }

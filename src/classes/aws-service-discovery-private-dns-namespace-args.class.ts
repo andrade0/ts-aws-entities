@@ -2,8 +2,8 @@ import { AwsServiceDiscoveryPrivateDnsNamespaceArgsIntterface } from '../interfa
 
 
 export class AwsServiceDiscoveryPrivateDnsNamespaceArgs implements AwsServiceDiscoveryPrivateDnsNamespaceArgsIntterface {
-  	name: string;
-	vpc: string;
-	description?: string;
+  name: string;
+  vpc: string;
+  description?: string;
 
 }

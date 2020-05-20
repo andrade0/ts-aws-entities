@@ -2,5 +2,5 @@ import { AwsDirectoryServiceConditionalForwarderAttrsIntterface } from '../inter
 
 
 export class AwsDirectoryServiceConditionalForwarderAttrs implements AwsDirectoryServiceConditionalForwarderAttrsIntterface {
-  
+
 }

@@ -1,8 +1,6 @@
-
-
 export interface AwsVpcEndpointConnectionNotificationAttrsIntterface {
-  	id?: string;
-	state?: string;
-	notification_type?: string;
+  id?: string;
+  state?: string;
+  notification_type?: string;
 
 }

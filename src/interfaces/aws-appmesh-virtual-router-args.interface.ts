@@ -1,8 +1,8 @@
 import { AwsAppmeshVirtualRouterArgsSpecIntterface } from '.';
 
 export interface AwsAppmeshVirtualRouterArgsIntterface {
-  	name: string;
-	mesh_name: string;
-	spec: AwsAppmeshVirtualRouterArgsSpecIntterface;
+  name: string;
+  mesh_name: string;
+  spec: AwsAppmeshVirtualRouterArgsSpecIntterface;
 
 }

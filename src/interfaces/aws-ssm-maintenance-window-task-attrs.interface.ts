@@ -1,6 +1,4 @@
-
-
 export interface AwsSsmMaintenanceWindowTaskAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

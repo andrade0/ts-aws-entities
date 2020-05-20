@@ -1,6 +1,4 @@
-
-
 export interface AwsElasticBeanstalkSolutionStackAttrsIntterface {
-  	name?: string;
+  name?: string;
 
 }

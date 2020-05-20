@@ -1,6 +1,4 @@
-
-
 export interface AwsArnArgsIntterface {
-  	arn: string;
+  arn: string;
 
 }

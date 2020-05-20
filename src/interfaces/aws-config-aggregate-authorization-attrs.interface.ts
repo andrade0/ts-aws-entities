@@ -1,6 +1,4 @@
-
-
 export interface AwsConfigAggregateAuthorizationAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

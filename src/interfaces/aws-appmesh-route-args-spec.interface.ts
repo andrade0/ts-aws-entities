@@ -1,6 +1,4 @@
-
-
 export interface AwsAppmeshRouteArgsSpecIntterface {
-  	http_route?: string;
+  http_route?: string;
 
 }

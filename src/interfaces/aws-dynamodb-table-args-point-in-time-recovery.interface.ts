@@ -1,6 +1,4 @@
-
-
 export interface AwsDynamodbTableArgsPointInTimeRecoveryIntterface {
-  	enabled: string;
+  enabled: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsDevicefarmProjectArgsIntterface {
-  	name: string;
+  name: string;
 
 }

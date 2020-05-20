@@ -2,7 +2,7 @@ import { AwsSsmMaintenanceWindowTaskArgsTaskParametersIntterface } from '../inte
 
 
 export class AwsSsmMaintenanceWindowTaskArgsTaskParameters implements AwsSsmMaintenanceWindowTaskArgsTaskParametersIntterface {
-  	name: string;
-	values: string;
+  name: string;
+  values: string;
 
 }

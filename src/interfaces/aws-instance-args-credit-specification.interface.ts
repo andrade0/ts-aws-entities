@@ -1,6 +1,4 @@
-
-
 export interface AwsInstanceArgsCreditSpecificationIntterface {
-  	cpu_credits?: string;
+  cpu_credits?: string;
 
 }

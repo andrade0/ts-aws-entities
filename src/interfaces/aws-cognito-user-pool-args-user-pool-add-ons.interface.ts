@@ -1,6 +1,4 @@
-
-
 export interface AwsCognitoUserPoolArgsUserPoolAddOnsIntterface {
-  	advanced_security_mode: string;
+  advanced_security_mode: string;
 
 }

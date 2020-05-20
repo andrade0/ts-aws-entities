@@ -1,7 +1,5 @@
-
-
 export interface AwsWorklinkFleetArgsIdentityProviderIntterface {
-  	type: string;
-	saml_metadata: string;
+  type: string;
+  saml_metadata: string;
 
 }

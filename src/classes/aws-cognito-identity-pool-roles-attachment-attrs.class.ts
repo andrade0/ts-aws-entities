@@ -2,9 +2,9 @@ import { AwsCognitoIdentityPoolRolesAttachmentAttrsIntterface } from '../interfa
 
 
 export class AwsCognitoIdentityPoolRolesAttachmentAttrs implements AwsCognitoIdentityPoolRolesAttachmentAttrsIntterface {
-  	id?: string;
-	identity_pool_id?: string;
-	role_mapping?: string;
-	roles?: string;
+  id?: string;
+  identity_pool_id?: string;
+  role_mapping?: string;
+  roles?: string;
 
 }

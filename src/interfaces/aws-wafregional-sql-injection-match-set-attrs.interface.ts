@@ -1,6 +1,4 @@
-
-
 export interface AwsWafregionalSqlInjectionMatchSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

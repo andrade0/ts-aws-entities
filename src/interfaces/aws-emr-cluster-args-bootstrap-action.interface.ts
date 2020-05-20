@@ -1,8 +1,6 @@
-
-
 export interface AwsEmrClusterArgsBootstrapActionIntterface {
-  	name: string;
-	path: string;
-	args?: string;
+  name: string;
+  path: string;
+  args?: string;
 
 }

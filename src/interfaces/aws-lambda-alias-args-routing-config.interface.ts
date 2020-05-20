@@ -1,6 +1,4 @@
-
-
 export interface AwsLambdaAliasArgsRoutingConfigIntterface {
-  	additional_version_weights?: string;
+  additional_version_weights?: string;
 
 }

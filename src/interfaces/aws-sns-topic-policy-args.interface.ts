@@ -1,7 +1,5 @@
-
-
 export interface AwsSnsTopicPolicyArgsIntterface {
-  	arn: string;
-	policy: string;
+  arn: string;
+  policy: string;
 
 }

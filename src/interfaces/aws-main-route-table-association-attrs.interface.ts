@@ -1,7 +1,5 @@
-
-
 export interface AwsMainRouteTableAssociationAttrsIntterface {
-  	id?: string;
-	original_route_table_id?: string;
+  id?: string;
+  original_route_table_id?: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsGlobalacceleratorAcceleratorAttrsIntterface {
-  	id?: string;
-	ip_sets?: string;
+  id?: string;
+  ip_sets?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsBatchJobDefinitionArgsRetryStrategyIntterface {
-  	attempts?: string;
+  attempts?: string;
 
 }

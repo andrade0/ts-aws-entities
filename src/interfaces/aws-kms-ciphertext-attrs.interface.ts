@@ -1,6 +1,4 @@
-
-
 export interface AwsKmsCiphertextAttrsIntterface {
-  	ciphertext_blob?: string;
+  ciphertext_blob?: string;
 
 }

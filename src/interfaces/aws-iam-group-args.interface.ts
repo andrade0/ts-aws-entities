@@ -1,7 +1,5 @@
-
-
 export interface AwsIamGroupArgsIntterface {
-  	name: string;
-	path: string;
+  name: string;
+  path: string;
 
 }

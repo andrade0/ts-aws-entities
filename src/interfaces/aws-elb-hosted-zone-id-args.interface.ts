@@ -1,6 +1,4 @@
-
-
 export interface AwsElbHostedZoneIdArgsIntterface {
-  	region?: string;
+  region?: string;
 
 }

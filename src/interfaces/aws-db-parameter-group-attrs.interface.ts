@@ -1,7 +1,5 @@
-
-
 export interface AwsDbParameterGroupAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

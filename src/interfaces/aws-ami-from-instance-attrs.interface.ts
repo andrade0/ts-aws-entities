@@ -1,6 +1,4 @@
-
-
 export interface AwsAmiFromInstanceAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsSqsQueueAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

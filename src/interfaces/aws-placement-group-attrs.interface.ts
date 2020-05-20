@@ -1,6 +1,4 @@
-
-
 export interface AwsPlacementGroupAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

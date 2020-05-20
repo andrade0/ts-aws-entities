@@ -1,7 +1,5 @@
-
-
 export interface AwsSesDomainIdentityAttrsIntterface {
-  	arn?: string;
-	verification_token?: string;
+  arn?: string;
+  verification_token?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsAmiIdsArgsExecutableUsersIntterface {
-  	sort_ascending: string;
+  sort_ascending: string;
 
 }

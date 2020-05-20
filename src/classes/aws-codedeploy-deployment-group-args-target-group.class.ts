@@ -2,6 +2,6 @@ import { AwsCodedeployDeploymentGroupArgsTargetGroupIntterface } from '../interf
 
 
 export class AwsCodedeployDeploymentGroupArgsTargetGroup implements AwsCodedeployDeploymentGroupArgsTargetGroupIntterface {
-  	name: string;
+  name: string;
 
 }

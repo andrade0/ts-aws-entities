@@ -1,6 +1,4 @@
-
-
 export interface AwsKinesisFirehoseDeliveryStreamAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

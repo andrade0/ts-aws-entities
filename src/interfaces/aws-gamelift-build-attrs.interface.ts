@@ -1,6 +1,4 @@
-
-
 export interface AwsGameliftBuildAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsAppsyncDatasourceAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

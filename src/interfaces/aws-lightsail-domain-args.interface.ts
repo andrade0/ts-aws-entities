@@ -1,6 +1,4 @@
-
-
 export interface AwsLightsailDomainArgsIntterface {
-  	domain_name: string;
+  domain_name: string;
 
 }

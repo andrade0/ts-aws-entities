@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchEventPermissionAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

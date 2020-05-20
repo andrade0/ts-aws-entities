@@ -1,6 +1,4 @@
-
-
 export interface AwsIpRangesArgsRegionsIntterface {
-  	url?: string;
+  url?: string;
 
 }

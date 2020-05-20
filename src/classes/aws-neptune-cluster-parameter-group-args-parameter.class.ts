@@ -2,8 +2,8 @@ import { AwsNeptuneClusterParameterGroupArgsParameterIntterface } from '../inter
 
 
 export class AwsNeptuneClusterParameterGroupArgsParameter implements AwsNeptuneClusterParameterGroupArgsParameterIntterface {
-  	name: string;
-	value: string;
-	apply_method?: string;
+  name: string;
+  value: string;
+  apply_method?: string;
 
 }

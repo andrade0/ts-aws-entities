@@ -1,7 +1,5 @@
-
-
 export interface AwsSagemakerModelAttrsIntterface {
-  	name?: string;
-	arn?: string;
+  name?: string;
+  arn?: string;
 
 }

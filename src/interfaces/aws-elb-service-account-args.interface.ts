@@ -1,6 +1,4 @@
-
-
 export interface AwsElbServiceAccountArgsIntterface {
-  	region?: string;
+  region?: string;
 
 }

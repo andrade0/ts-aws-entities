@@ -2,7 +2,7 @@ import { AwsRdsClusterParameterGroupAttrsIntterface } from '../interfaces';
 
 
 export class AwsRdsClusterParameterGroupAttrs implements AwsRdsClusterParameterGroupAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

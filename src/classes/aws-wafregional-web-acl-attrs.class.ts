@@ -2,7 +2,7 @@ import { AwsWafregionalWebAclAttrsIntterface } from '../interfaces';
 
 
 export class AwsWafregionalWebAclAttrs implements AwsWafregionalWebAclAttrsIntterface {
-  	arn?: string;
-	id?: string;
+  arn?: string;
+  id?: string;
 
 }

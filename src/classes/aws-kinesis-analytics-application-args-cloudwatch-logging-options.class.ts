@@ -2,7 +2,7 @@ import { AwsKinesisAnalyticsApplicationArgsCloudwatchLoggingOptionsIntterface } 
 
 
 export class AwsKinesisAnalyticsApplicationArgsCloudwatchLoggingOptions implements AwsKinesisAnalyticsApplicationArgsCloudwatchLoggingOptionsIntterface {
-  	log_stream_arn: string;
-	role_arn: string;
+  log_stream_arn: string;
+  role_arn: string;
 
 }

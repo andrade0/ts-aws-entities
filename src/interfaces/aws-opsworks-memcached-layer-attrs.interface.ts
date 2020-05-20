@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksMemcachedLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsDaxClusterArgsServerSideEncryptionIntterface {
-  	enabled?: string;
+  enabled?: string;
 
 }

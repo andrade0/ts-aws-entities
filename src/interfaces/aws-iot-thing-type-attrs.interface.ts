@@ -1,6 +1,4 @@
-
-
 export interface AwsIotThingTypeAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

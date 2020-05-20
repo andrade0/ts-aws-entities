@@ -1,6 +1,4 @@
-
-
 export interface AwsTransferUserAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

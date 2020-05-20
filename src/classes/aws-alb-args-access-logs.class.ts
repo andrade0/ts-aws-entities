@@ -2,8 +2,8 @@ import { AwsAlbArgsAccessLogsIntterface } from '../interfaces';
 
 
 export class AwsAlbArgsAccessLogs implements AwsAlbArgsAccessLogsIntterface {
-  	bucket: string;
-	prefix?: string;
-	enabled?: boolean;
+  bucket: string;
+  prefix?: string;
+  enabled?: boolean;
 
 }

@@ -2,7 +2,7 @@ import { AwsKinesisFirehoseDeliveryStreamArgsKinesisSourceConfigurationIntterfac
 
 
 export class AwsKinesisFirehoseDeliveryStreamArgsKinesisSourceConfiguration implements AwsKinesisFirehoseDeliveryStreamArgsKinesisSourceConfigurationIntterface {
-  	kinesis_stream_arn: string;
-	role_arn: string;
+  kinesis_stream_arn: string;
+  role_arn: string;
 
 }

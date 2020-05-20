@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchMetricAlarmAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

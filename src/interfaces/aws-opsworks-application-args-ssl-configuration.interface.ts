@@ -1,8 +1,6 @@
-
-
 export interface AwsOpsworksApplicationArgsSslConfigurationIntterface {
-  	private_key: string;
-	certificate: string;
-	chain?: string;
+  private_key: string;
+  certificate: string;
+  chain?: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsSsmAssociationArgsInstanceIdIntterface {
-  	key: string;
-	values: string;
+  key: string;
+  values: string;
 
 }

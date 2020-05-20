@@ -1,6 +1,4 @@
-
-
 export interface AwsWafregionalWebAclAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

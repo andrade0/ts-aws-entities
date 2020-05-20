@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksJavaAppLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

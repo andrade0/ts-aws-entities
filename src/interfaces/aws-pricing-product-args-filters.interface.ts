@@ -1,7 +1,5 @@
-
-
 export interface AwsPricingProductArgsFiltersIntterface {
-  	field: string;
-	value: string;
+  field: string;
+  value: string;
 
 }

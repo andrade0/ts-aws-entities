@@ -1,8 +1,6 @@
-
-
 export interface AwsCodedeployDeploymentGroupArgsEc2TagFilterIntterface {
-  	key?: string;
-	type?: string;
-	value?: string;
+  key?: string;
+  type?: string;
+  value?: string;
 
 }

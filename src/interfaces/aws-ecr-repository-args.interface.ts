@@ -1,7 +1,5 @@
-
-
 export interface AwsEcrRepositoryArgsIntterface {
-  	name: string;
-	tags?: string;
+  name: string;
+  tags?: string;
 
 }

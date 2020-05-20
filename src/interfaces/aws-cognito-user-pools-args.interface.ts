@@ -1,6 +1,4 @@
-
-
 export interface AwsCognitoUserPoolsArgsIntterface {
-  	name: string;
+  name: string;
 
 }

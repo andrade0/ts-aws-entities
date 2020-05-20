@@ -1,6 +1,4 @@
-
-
 export interface AwsSecurityhubStandardsSubscriptionArgsIntterface {
-  	standards_arn: string;
+  standards_arn: string;
 
 }

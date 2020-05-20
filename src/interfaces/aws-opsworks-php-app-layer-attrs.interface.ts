@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksPhpAppLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

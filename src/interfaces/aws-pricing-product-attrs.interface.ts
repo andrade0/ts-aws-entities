@@ -1,6 +1,4 @@
-
-
 export interface AwsPricingProductAttrsIntterface {
-  	result?: string;
+  result?: string;
 
 }

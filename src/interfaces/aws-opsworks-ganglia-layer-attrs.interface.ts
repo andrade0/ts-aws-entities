@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksGangliaLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchEventTargetArgsSqsTargetIntterface {
-  	message_group_id?: string;
+  message_group_id?: string;
 
 }

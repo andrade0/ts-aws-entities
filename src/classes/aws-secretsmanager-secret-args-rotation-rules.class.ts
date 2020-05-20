@@ -2,6 +2,6 @@ import { AwsSecretsmanagerSecretArgsRotationRulesIntterface } from '../interface
 
 
 export class AwsSecretsmanagerSecretArgsRotationRules implements AwsSecretsmanagerSecretArgsRotationRulesIntterface {
-  	automatically_after_days: string;
+  automatically_after_days: string;
 
 }

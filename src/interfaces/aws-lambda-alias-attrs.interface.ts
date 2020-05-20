@@ -1,7 +1,5 @@
-
-
 export interface AwsLambdaAliasAttrsIntterface {
-  	arn?: string;
-	invoke_arn?: string;
+  arn?: string;
+  invoke_arn?: string;
 
 }

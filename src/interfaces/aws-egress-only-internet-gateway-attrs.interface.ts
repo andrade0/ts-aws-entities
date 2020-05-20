@@ -1,6 +1,4 @@
-
-
 export interface AwsEgressOnlyInternetGatewayAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

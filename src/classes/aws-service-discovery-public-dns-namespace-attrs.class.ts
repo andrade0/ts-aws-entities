@@ -2,8 +2,8 @@ import { AwsServiceDiscoveryPublicDnsNamespaceAttrsIntterface } from '../interfa
 
 
 export class AwsServiceDiscoveryPublicDnsNamespaceAttrs implements AwsServiceDiscoveryPublicDnsNamespaceAttrsIntterface {
-  	id?: string;
-	arn?: string;
-	hosted_zone?: string;
+  id?: string;
+  arn?: string;
+  hosted_zone?: string;
 
 }

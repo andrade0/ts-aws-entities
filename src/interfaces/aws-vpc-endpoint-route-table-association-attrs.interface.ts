@@ -1,6 +1,4 @@
-
-
 export interface AwsVpcEndpointRouteTableAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

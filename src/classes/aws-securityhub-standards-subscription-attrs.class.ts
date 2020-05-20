@@ -2,6 +2,6 @@ import { AwsSecurityhubStandardsSubscriptionAttrsIntterface } from '../interface
 
 
 export class AwsSecurityhubStandardsSubscriptionAttrs implements AwsSecurityhubStandardsSubscriptionAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsAppmeshVirtualNodeArgsDnsIntterface {
-  	service_name: string;
+  service_name: string;
 
 }

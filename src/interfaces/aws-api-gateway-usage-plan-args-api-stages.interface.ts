@@ -1,7 +1,5 @@
-
-
 export interface AwsApiGatewayUsagePlanArgsApiStagesIntterface {
-  	api_id: string;
-	stage: string;
+  api_id: string;
+  stage: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsMediaStoreContainerArgsIntterface {
-  	name: string;
+  name: string;
 
 }

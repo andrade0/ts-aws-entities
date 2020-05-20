@@ -2,9 +2,9 @@ import { AwsElastictranscoderPipelineArgsNotificationsIntterface } from '../inte
 
 
 export class AwsElastictranscoderPipelineArgsNotifications implements AwsElastictranscoderPipelineArgsNotificationsIntterface {
-  	completed: string;
-	error: string;
-	progressing: string;
-	warning: string;
+  completed: string;
+  error: string;
+  progressing: string;
+  warning: string;
 
 }

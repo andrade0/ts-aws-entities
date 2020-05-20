@@ -1,6 +1,4 @@
-
-
 export interface AwsNetworkAclRuleAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

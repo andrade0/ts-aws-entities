@@ -1,6 +1,4 @@
-
-
 export interface AwsLambdaFunctionArgsEnvironmentIntterface {
-  	variables?: string;
+  variables?: string;
 
 }

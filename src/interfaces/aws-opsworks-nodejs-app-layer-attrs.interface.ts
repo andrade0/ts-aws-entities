@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksNodejsAppLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

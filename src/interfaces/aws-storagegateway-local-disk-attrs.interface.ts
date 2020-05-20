@@ -1,7 +1,5 @@
-
-
 export interface AwsStoragegatewayLocalDiskAttrsIntterface {
-  	disk_id?: string;
-	id?: string;
+  disk_id?: string;
+  id?: string;
 
 }

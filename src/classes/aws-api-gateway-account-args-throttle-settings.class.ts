@@ -2,7 +2,7 @@ import { AwsApiGatewayAccountArgsThrottleSettingsIntterface } from '../interface
 
 
 export class AwsApiGatewayAccountArgsThrottleSettings implements AwsApiGatewayAccountArgsThrottleSettingsIntterface {
-  	burst_limit: string;
-	rate_limit: string;
+  burst_limit: string;
+  rate_limit: string;
 
 }

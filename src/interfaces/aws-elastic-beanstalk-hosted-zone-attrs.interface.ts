@@ -1,7 +1,5 @@
-
-
 export interface AwsElasticBeanstalkHostedZoneAttrsIntterface {
-  	id?: string;
-	region?: string;
+  id?: string;
+  region?: string;
 
 }

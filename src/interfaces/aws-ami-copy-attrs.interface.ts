@@ -1,6 +1,4 @@
-
-
 export interface AwsAmiCopyAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

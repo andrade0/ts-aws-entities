@@ -1,6 +1,4 @@
-
-
 export interface AwsInspectorResourceGroupArgsIntterface {
-  	tags: string;
+  tags: string;
 
 }

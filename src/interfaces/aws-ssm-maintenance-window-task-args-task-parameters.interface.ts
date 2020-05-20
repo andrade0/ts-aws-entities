@@ -1,7 +1,5 @@
-
-
 export interface AwsSsmMaintenanceWindowTaskArgsTaskParametersIntterface {
-  	name: string;
-	values: string;
+  name: string;
+  values: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsElasticBeanstalkApplicationVersionAttrsIntterface {
-  	name?: string;
+  name?: string;
 
 }

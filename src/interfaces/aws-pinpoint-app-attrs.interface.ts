@@ -1,6 +1,4 @@
-
-
 export interface AwsPinpointAppAttrsIntterface {
-  	application_id?: string;
+  application_id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsAthenaNamedQueryAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

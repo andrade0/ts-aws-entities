@@ -1,7 +1,5 @@
-
-
 export interface AwsDbSecurityGroupAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

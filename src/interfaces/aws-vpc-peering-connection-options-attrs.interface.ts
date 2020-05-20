@@ -1,6 +1,4 @@
-
-
 export interface AwsVpcPeeringConnectionOptionsAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

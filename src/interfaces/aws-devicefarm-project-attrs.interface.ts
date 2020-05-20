@@ -1,6 +1,4 @@
-
-
 export interface AwsDevicefarmProjectAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

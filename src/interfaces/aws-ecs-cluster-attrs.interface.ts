@@ -1,7 +1,5 @@
-
-
 export interface AwsEcsClusterAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

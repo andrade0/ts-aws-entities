@@ -1,7 +1,5 @@
-
-
 export interface AwsDaxParameterGroupArgsParametersIntterface {
-  	name: string;
-	value: string;
+  name: string;
+  value: string;
 
 }

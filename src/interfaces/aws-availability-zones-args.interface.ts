@@ -1,6 +1,4 @@
-
-
 export interface AwsAvailabilityZonesArgsIntterface {
-  	state?: string;
+  state?: string;
 
 }

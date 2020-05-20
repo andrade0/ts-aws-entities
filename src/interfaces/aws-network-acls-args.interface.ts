@@ -1,8 +1,8 @@
 import { AwsNetworkAclsArgsFilterIntterface } from '.';
 
 export interface AwsNetworkAclsArgsIntterface {
-  	vpc_id?: string;
-	tags?: string;
-	filter?: AwsNetworkAclsArgsFilterIntterface;
+  vpc_id?: string;
+  tags?: string;
+  filter?: AwsNetworkAclsArgsFilterIntterface;
 
 }

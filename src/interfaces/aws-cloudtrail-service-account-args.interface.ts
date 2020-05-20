@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudtrailServiceAccountArgsIntterface {
-  	region?: string;
+  region?: string;
 
 }

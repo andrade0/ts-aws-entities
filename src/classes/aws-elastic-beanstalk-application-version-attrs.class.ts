@@ -2,6 +2,6 @@ import { AwsElasticBeanstalkApplicationVersionAttrsIntterface } from '../interfa
 
 
 export class AwsElasticBeanstalkApplicationVersionAttrs implements AwsElasticBeanstalkApplicationVersionAttrsIntterface {
-  	name?: string;
+  name?: string;
 
 }

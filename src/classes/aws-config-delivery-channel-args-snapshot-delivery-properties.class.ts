@@ -2,6 +2,6 @@ import { AwsConfigDeliveryChannelArgsSnapshotDeliveryPropertiesIntterface } from
 
 
 export class AwsConfigDeliveryChannelArgsSnapshotDeliveryProperties implements AwsConfigDeliveryChannelArgsSnapshotDeliveryPropertiesIntterface {
-  	delivery_frequency?: string;
+  delivery_frequency?: string;
 
 }

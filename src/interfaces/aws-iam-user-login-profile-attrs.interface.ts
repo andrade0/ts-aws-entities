@@ -1,7 +1,5 @@
-
-
 export interface AwsIamUserLoginProfileAttrsIntterface {
-  	key_fingerprint?: string;
-	encrypted_password?: string;
+  key_fingerprint?: string;
+  encrypted_password?: string;
 
 }

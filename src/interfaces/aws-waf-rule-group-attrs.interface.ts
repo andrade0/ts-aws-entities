@@ -1,6 +1,4 @@
-
-
 export interface AwsWafRuleGroupAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

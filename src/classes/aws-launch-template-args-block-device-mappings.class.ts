@@ -2,9 +2,9 @@ import { AwsLaunchTemplateArgsBlockDeviceMappingsIntterface } from '../interface
 
 
 export class AwsLaunchTemplateArgsBlockDeviceMappings implements AwsLaunchTemplateArgsBlockDeviceMappingsIntterface {
-  	device_name: string;
-	ebs: string;
-	no_device: string;
-	virtual_name: string;
+  device_name: string;
+  ebs: string;
+  no_device: string;
+  virtual_name: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsSfnActivityArgsIntterface {
-  	name: string;
-	tags?: string;
+  name: string;
+  tags?: string;
 
 }

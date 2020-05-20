@@ -2,6 +2,6 @@ import { AwsElasticsearchDomainArgsSnapshotOptionsIntterface } from '../interfac
 
 
 export class AwsElasticsearchDomainArgsSnapshotOptions implements AwsElasticsearchDomainArgsSnapshotOptionsIntterface {
-  	automated_snapshot_start_hour: string;
+  automated_snapshot_start_hour: string;
 
 }

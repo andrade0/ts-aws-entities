@@ -1,6 +1,4 @@
-
-
 export interface AwsAcmpcaCertificateAuthorityArgsIdIntterface {
-  	create: string;
+  create: string;
 
 }

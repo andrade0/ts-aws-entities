@@ -1,7 +1,5 @@
-
-
 export interface AwsVpcPeeringConnectionAttrsIntterface {
-  	id?: string;
-	accept_status?: string;
+  id?: string;
+  accept_status?: string;
 
 }

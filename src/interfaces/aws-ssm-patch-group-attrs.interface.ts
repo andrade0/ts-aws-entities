@@ -1,6 +1,4 @@
-
-
 export interface AwsSsmPatchGroupAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

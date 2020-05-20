@@ -1,6 +1,4 @@
-
-
 export interface AwsVpcDhcpOptionsAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

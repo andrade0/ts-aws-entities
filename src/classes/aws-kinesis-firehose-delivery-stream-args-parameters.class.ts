@@ -2,7 +2,7 @@ import { AwsKinesisFirehoseDeliveryStreamArgsParametersIntterface } from '../int
 
 
 export class AwsKinesisFirehoseDeliveryStreamArgsParameters implements AwsKinesisFirehoseDeliveryStreamArgsParametersIntterface {
-  	parameter_name: number;
-	parameter_value: string;
+  parameter_name: number;
+  parameter_value: string;
 
 }

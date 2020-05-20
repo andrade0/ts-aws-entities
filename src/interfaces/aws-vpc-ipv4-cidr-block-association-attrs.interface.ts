@@ -1,6 +1,4 @@
-
-
 export interface AwsVpcIpv4CidrBlockAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

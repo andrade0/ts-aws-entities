@@ -1,8 +1,6 @@
-
-
 export interface AwsDaxSubnetGroupArgsIntterface {
-  	name: string;
-	description?: string;
-	subnet_ids: string;
+  name: string;
+  description?: string;
+  subnet_ids: string;
 
 }

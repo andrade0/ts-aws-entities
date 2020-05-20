@@ -1,8 +1,6 @@
-
-
 export interface AwsTransferServerAttrsIntterface {
-  	arn?: string;
-	id?: string;
-	endpoint?: string;
+  arn?: string;
+  id?: string;
+  endpoint?: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsCloudformationStackAttrsIntterface {
-  	id?: string;
-	outputs?: string;
+  id?: string;
+  outputs?: string;
 
 }

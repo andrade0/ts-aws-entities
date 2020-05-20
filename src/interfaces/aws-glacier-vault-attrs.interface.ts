@@ -1,7 +1,5 @@
-
-
 export interface AwsGlacierVaultAttrsIntterface {
-  	location?: string;
-	arn?: string;
+  location?: string;
+  arn?: string;
 
 }

@@ -2,6 +2,6 @@ import { AwsLaunchTemplateArgsLicenseSpecificationIntterface } from '../interfac
 
 
 export class AwsLaunchTemplateArgsLicenseSpecification implements AwsLaunchTemplateArgsLicenseSpecificationIntterface {
-  	license_configuration_arn: string;
+  license_configuration_arn: string;
 
 }

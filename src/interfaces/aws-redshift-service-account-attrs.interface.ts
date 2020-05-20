@@ -1,7 +1,5 @@
-
-
 export interface AwsRedshiftServiceAccountAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

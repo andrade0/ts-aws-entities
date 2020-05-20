@@ -1,7 +1,5 @@
-
-
 export interface AwsConfigConfigRuleAttrsIntterface {
-  	arn?: string;
-	rule_id?: string;
+  arn?: string;
+  rule_id?: string;
 
 }

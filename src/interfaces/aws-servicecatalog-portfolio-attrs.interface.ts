@@ -1,6 +1,4 @@
-
-
 export interface AwsServicecatalogPortfolioAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

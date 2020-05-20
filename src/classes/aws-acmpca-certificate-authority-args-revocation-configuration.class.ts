@@ -2,6 +2,6 @@ import { AwsAcmpcaCertificateAuthorityArgsRevocationConfigurationIntterface } fr
 
 
 export class AwsAcmpcaCertificateAuthorityArgsRevocationConfiguration implements AwsAcmpcaCertificateAuthorityArgsRevocationConfigurationIntterface {
-  	crl_configuration?: string;
+  crl_configuration?: string;
 
 }

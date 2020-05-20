@@ -2,8 +2,8 @@ import { AwsRdsClusterParameterGroupArgsParameterIntterface } from '../interface
 
 
 export class AwsRdsClusterParameterGroupArgsParameter implements AwsRdsClusterParameterGroupArgsParameterIntterface {
-  	name: string;
-	value: string;
-	apply_method?: string;
+  name: string;
+  value: string;
+  apply_method?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsFlowLogAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

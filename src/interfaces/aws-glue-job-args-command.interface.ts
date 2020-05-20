@@ -1,7 +1,5 @@
-
-
 export interface AwsGlueJobArgsCommandIntterface {
-  	name?: string;
-	script_location: string;
+  name?: string;
+  script_location: string;
 
 }

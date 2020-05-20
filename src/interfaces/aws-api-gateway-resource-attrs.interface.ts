@@ -1,7 +1,5 @@
-
-
 export interface AwsApiGatewayResourceAttrsIntterface {
-  	id?: string;
-	path?: string;
+  id?: string;
+  path?: string;
 
 }

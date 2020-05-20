@@ -2,7 +2,7 @@ import { AwsEcsTaskDefinitionArgsPlacementConstraintsIntterface } from '../inter
 
 
 export class AwsEcsTaskDefinitionArgsPlacementConstraints implements AwsEcsTaskDefinitionArgsPlacementConstraintsIntterface {
-  	type: string;
-	expression?: string;
+  type: string;
+  expression?: string;
 
 }

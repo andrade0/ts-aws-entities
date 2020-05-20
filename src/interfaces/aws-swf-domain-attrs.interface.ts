@@ -1,6 +1,4 @@
-
-
 export interface AwsSwfDomainAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

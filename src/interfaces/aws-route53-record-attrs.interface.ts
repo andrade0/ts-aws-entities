@@ -1,7 +1,5 @@
-
-
 export interface AwsRoute53RecordAttrsIntterface {
-  	name?: string;
-	fqdn?: string;
+  name?: string;
+  fqdn?: string;
 
 }

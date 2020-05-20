@@ -1,6 +1,4 @@
-
-
 export interface AwsLightsailStaticIpArgsIntterface {
-  	name: string;
+  name: string;
 
 }

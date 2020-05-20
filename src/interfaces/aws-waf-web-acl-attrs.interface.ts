@@ -1,6 +1,4 @@
-
-
 export interface AwsWafWebAclAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

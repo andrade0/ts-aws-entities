@@ -2,8 +2,8 @@ import { AwsCloudfrontDistributionArgsLoggingConfigIntterface } from '../interfa
 
 
 export class AwsCloudfrontDistributionArgsLoggingConfig implements AwsCloudfrontDistributionArgsLoggingConfigIntterface {
-  	bucket: string;
-	include_cookies?: string;
-	prefix?: string;
+  bucket: string;
+  include_cookies?: string;
+  prefix?: string;
 
 }

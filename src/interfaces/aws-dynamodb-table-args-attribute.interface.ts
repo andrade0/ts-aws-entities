@@ -1,7 +1,5 @@
-
-
 export interface AwsDynamodbTableArgsAttributeIntterface {
-  	name: string;
-	type: string;
+  name: string;
+  type: string;
 
 }

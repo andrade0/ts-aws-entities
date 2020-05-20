@@ -1,6 +1,4 @@
-
-
 export interface AwsIamPolicyDocumentAttrsIntterface {
-  	json?: string;
+  json?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsApiGatewayRestApiArgsEndpointConfigurationIntterface {
-  	types: string;
+  types: string;
 
 }

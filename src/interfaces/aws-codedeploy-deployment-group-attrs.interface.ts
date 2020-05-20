@@ -1,6 +1,4 @@
-
-
 export interface AwsCodedeployDeploymentGroupAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

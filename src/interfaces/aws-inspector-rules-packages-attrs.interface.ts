@@ -1,6 +1,4 @@
-
-
 export interface AwsInspectorRulesPackagesAttrsIntterface {
-  	arns?: string;
+  arns?: string;
 
 }

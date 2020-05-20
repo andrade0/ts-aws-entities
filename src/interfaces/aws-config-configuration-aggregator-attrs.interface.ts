@@ -1,6 +1,4 @@
-
-
 export interface AwsConfigConfigurationAggregatorAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

@@ -1,8 +1,6 @@
-
-
 export interface AwsElasticacheSecurityGroupAttrsIntterface {
-  	description?: string;
-	name?: string;
-	security_group_names?: string;
+  description?: string;
+  name?: string;
+  security_group_names?: string;
 
 }

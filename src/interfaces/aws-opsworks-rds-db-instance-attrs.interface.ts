@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksRdsDbInstanceAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

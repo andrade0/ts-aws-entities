@@ -2,6 +2,6 @@ import { AwsCloudwatchEventTargetArgsKinesisTargetIntterface } from '../interfac
 
 
 export class AwsCloudwatchEventTargetArgsKinesisTarget implements AwsCloudwatchEventTargetArgsKinesisTargetIntterface {
-  	partition_key_path?: string;
+  partition_key_path?: string;
 
 }

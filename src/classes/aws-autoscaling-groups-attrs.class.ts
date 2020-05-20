@@ -2,7 +2,7 @@ import { AwsAutoscalingGroupsAttrsIntterface } from '../interfaces';
 
 
 export class AwsAutoscalingGroupsAttrs implements AwsAutoscalingGroupsAttrsIntterface {
-  	names?: string;
-	arns?: string;
+  names?: string;
+  arns?: string;
 
 }

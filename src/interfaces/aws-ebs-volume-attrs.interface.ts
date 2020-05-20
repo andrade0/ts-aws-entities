@@ -1,7 +1,5 @@
-
-
 export interface AwsEbsVolumeAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

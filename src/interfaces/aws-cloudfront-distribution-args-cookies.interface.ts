@@ -1,7 +1,5 @@
-
-
 export interface AwsCloudfrontDistributionArgsCookiesIntterface {
-  	forward: string;
-	whitelisted_names?: string;
+  forward: string;
+  whitelisted_names?: string;
 
 }

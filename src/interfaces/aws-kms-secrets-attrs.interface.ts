@@ -1,6 +1,4 @@
-
-
 export interface AwsKmsSecretsAttrsIntterface {
-  	plaintext?: string;
+  plaintext?: string;
 
 }

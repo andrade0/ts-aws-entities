@@ -1,7 +1,5 @@
-
-
 export interface AwsAutoscalingGroupsAttrsIntterface {
-  	names?: string;
-	arns?: string;
+  names?: string;
+  arns?: string;
 
 }

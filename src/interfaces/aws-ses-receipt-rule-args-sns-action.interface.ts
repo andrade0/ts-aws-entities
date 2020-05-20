@@ -1,7 +1,5 @@
-
-
 export interface AwsSesReceiptRuleArgsSnsActionIntterface {
-  	topic_arn: string;
-	position: string;
+  topic_arn: string;
+  position: string;
 
 }

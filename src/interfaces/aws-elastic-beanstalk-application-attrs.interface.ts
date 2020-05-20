@@ -1,7 +1,5 @@
-
-
 export interface AwsElasticBeanstalkApplicationAttrsIntterface {
-  	name?: string;
-	description?: string;
+  name?: string;
+  description?: string;
 
 }

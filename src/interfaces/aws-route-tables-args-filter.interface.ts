@@ -1,7 +1,5 @@
-
-
 export interface AwsRouteTablesArgsFilterIntterface {
-  	name: string;
-	values: string;
+  name: string;
+  values: string;
 
 }

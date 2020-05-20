@@ -1,6 +1,4 @@
-
-
 export interface AwsWafregionalRuleAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

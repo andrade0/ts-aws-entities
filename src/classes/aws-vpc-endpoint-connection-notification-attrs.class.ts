@@ -2,8 +2,8 @@ import { AwsVpcEndpointConnectionNotificationAttrsIntterface } from '../interfac
 
 
 export class AwsVpcEndpointConnectionNotificationAttrs implements AwsVpcEndpointConnectionNotificationAttrsIntterface {
-  	id?: string;
-	state?: string;
-	notification_type?: string;
+  id?: string;
+  state?: string;
+  notification_type?: string;
 
 }

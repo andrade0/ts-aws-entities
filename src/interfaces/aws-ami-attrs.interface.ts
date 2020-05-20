@@ -1,7 +1,5 @@
-
-
 export interface AwsAmiAttrsIntterface {
-  	id?: string;
-	root_snapshot_id?: string;
+  id?: string;
+  root_snapshot_id?: string;
 
 }

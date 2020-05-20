@@ -1,6 +1,4 @@
-
-
 export interface AwsDbEventCategoriesArgsIntterface {
-  	source_type?: string;
+  source_type?: string;
 
 }

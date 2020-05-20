@@ -1,7 +1,5 @@
-
-
 export interface AwsVpcsArgsFilterIntterface {
-  	name: string;
-	values: string;
+  name: string;
+  values: string;
 
 }

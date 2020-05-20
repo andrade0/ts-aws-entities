@@ -2,7 +2,7 @@ import { AwsLaunchConfigurationArgsEphemeralBlockDeviceIntterface } from '../int
 
 
 export class AwsLaunchConfigurationArgsEphemeralBlockDevice implements AwsLaunchConfigurationArgsEphemeralBlockDeviceIntterface {
-  	device_name: string;
-	virtual_name: string;
+  device_name: string;
+  virtual_name: string;
 
 }

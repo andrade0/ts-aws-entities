@@ -1,7 +1,5 @@
-
-
 export interface AwsSagemakerNotebookInstanceAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

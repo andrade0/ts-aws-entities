@@ -1,7 +1,5 @@
-
-
 export interface AwsS3BucketArgsReplicationConfigurationIntterface {
-  	role: string;
-	rules: string;
+  role: string;
+  rules: string;
 
 }

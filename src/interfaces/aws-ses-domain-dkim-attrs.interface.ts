@@ -1,6 +1,4 @@
-
-
 export interface AwsSesDomainDkimAttrsIntterface {
-  	dkim_tokens?: string;
+  dkim_tokens?: string;
 
 }

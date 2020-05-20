@@ -2,5 +2,5 @@ import { AwsConfigConfigurationRecorderStatusAttrsIntterface } from '../interfac
 
 
 export class AwsConfigConfigurationRecorderStatusAttrs implements AwsConfigConfigurationRecorderStatusAttrsIntterface {
-  
+
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsLambdaFunctionArgsDeadLetterConfigIntterface {
-  	target_arn: string;
+  target_arn: string;
 
 }

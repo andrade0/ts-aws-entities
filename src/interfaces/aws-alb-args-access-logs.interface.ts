@@ -1,8 +1,6 @@
-
-
 export interface AwsAlbArgsAccessLogsIntterface {
-  	bucket: string;
-	prefix?: string;
-	enabled?: boolean;
+  bucket: string;
+  prefix?: string;
+  enabled?: boolean;
 
 }

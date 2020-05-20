@@ -1,7 +1,5 @@
-
-
 export interface AwsIotCertificateArgsIntterface {
-  	active: boolean;
-	csr: string;
+  active: boolean;
+  csr: string;
 
 }

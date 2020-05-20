@@ -1,10 +1,8 @@
-
-
 export interface AwsIamPolicyAttachmentArgsIntterface {
-  	name: string;
-	users?: string;
-	roles?: string;
-	groups?: string;
-	policy_arn: string;
+  name: string;
+  users?: string;
+  roles?: string;
+  groups?: string;
+  policy_arn: string;
 
 }

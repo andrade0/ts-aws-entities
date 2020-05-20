@@ -1,7 +1,5 @@
-
-
 export interface AwsAppsyncApiKeyAttrsIntterface {
-  	id?: string;
-	key?: string;
+  id?: string;
+  key?: string;
 
 }

@@ -2,7 +2,7 @@ import { AwsSfnActivityArgsIntterface } from '../interfaces';
 
 
 export class AwsSfnActivityArgs implements AwsSfnActivityArgsIntterface {
-  	name: string;
-	tags?: string;
+  name: string;
+  tags?: string;
 
 }

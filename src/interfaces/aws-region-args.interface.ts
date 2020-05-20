@@ -1,7 +1,5 @@
-
-
 export interface AwsRegionArgsIntterface {
-  	name?: string;
-	endpoint?: string;
+  name?: string;
+  endpoint?: string;
 
 }

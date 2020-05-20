@@ -2,10 +2,10 @@ import { AwsKinesisAnalyticsApplicationArgsOutputsIntterface } from '../interfac
 
 
 export class AwsKinesisAnalyticsApplicationArgsOutputs implements AwsKinesisAnalyticsApplicationArgsOutputsIntterface {
-  	name: string;
-	schema: string;
-	kinesis_firehose?: string;
-	kinesis_stream?: string;
-	lambda?: string;
+  name: string;
+  schema: string;
+  kinesis_firehose?: string;
+  kinesis_stream?: string;
+  lambda?: string;
 
 }

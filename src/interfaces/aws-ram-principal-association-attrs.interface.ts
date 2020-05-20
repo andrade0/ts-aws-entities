@@ -1,6 +1,4 @@
-
-
 export interface AwsRamPrincipalAssociationAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

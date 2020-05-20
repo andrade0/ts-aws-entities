@@ -1,6 +1,4 @@
-
-
 export interface AwsApiGatewayModelAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

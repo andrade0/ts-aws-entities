@@ -2,6 +2,6 @@ import { AwsLaunchTemplateArgsCreditSpecificationIntterface } from '../interface
 
 
 export class AwsLaunchTemplateArgsCreditSpecification implements AwsLaunchTemplateArgsCreditSpecificationIntterface {
-  	cpu_credits: string;
+  cpu_credits: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsSimpledbDomainAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

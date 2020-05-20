@@ -1,7 +1,5 @@
-
-
 export interface AwsAppmeshVirtualNodeArgsPortMappingIntterface {
-  	port: string;
-	protocol: string;
+  port: string;
+  protocol: string;
 
 }

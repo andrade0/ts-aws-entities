@@ -1,6 +1,4 @@
-
-
 export interface AwsWafWebAclArgsDefaultActionIntterface {
-  	type: string;
+  type: string;
 
 }

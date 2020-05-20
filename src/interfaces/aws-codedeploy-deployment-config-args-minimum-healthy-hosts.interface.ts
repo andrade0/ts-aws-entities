@@ -1,7 +1,5 @@
-
-
 export interface AwsCodedeployDeploymentConfigArgsMinimumHealthyHostsIntterface {
-  	type: string;
-	value: string;
+  type: string;
+  value: string;
 
 }

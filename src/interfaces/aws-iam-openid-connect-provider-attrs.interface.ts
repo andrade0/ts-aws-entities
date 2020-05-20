@@ -1,6 +1,4 @@
-
-
 export interface AwsIamOpenidConnectProviderAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

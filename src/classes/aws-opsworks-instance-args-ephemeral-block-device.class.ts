@@ -2,7 +2,7 @@ import { AwsOpsworksInstanceArgsEphemeralBlockDeviceIntterface } from '../interf
 
 
 export class AwsOpsworksInstanceArgsEphemeralBlockDevice implements AwsOpsworksInstanceArgsEphemeralBlockDeviceIntterface {
-  	device_name: string;
-	virtual_name: string;
+  device_name: string;
+  virtual_name: string;
 
 }

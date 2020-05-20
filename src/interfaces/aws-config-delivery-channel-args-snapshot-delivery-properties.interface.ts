@@ -1,6 +1,4 @@
-
-
 export interface AwsConfigDeliveryChannelArgsSnapshotDeliveryPropertiesIntterface {
-  	delivery_frequency?: string;
+  delivery_frequency?: string;
 
 }

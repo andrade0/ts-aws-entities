@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueClassifierAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

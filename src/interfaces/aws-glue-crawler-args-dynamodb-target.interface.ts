@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueCrawlerArgsDynamodbTargetIntterface {
-  	path: string;
+  path: string;
 
 }

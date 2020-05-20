@@ -2,7 +2,7 @@ import { AwsIotThingPrincipalAttachmentArgsIntterface } from '../interfaces';
 
 
 export class AwsIotThingPrincipalAttachmentArgs implements AwsIotThingPrincipalAttachmentArgsIntterface {
-  	principal: string;
-	thing: string;
+  principal: string;
+  thing: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsAppmeshRouteArgsActionIntterface {
-  	weighted_target: string;
+  weighted_target: string;
 
 }

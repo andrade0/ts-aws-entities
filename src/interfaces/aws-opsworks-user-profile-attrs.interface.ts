@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksUserProfileAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

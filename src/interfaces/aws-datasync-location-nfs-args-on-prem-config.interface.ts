@@ -1,6 +1,4 @@
-
-
 export interface AwsDatasyncLocationNfsArgsOnPremConfigIntterface {
-  	agent_arns: string;
+  agent_arns: string;
 
 }

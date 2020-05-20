@@ -1,6 +1,4 @@
-
-
 export interface AwsDlmLifecyclePolicyArgsRetainRuleIntterface {
-  	count: string;
+  count: string;
 
 }

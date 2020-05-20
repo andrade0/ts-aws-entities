@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksPermissionAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsEcsServiceArgsDeploymentControllerIntterface {
-  	type?: string;
+  type?: string;
 
 }

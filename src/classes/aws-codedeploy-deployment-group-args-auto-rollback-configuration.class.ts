@@ -2,7 +2,7 @@ import { AwsCodedeployDeploymentGroupArgsAutoRollbackConfigurationIntterface } f
 
 
 export class AwsCodedeployDeploymentGroupArgsAutoRollbackConfiguration implements AwsCodedeployDeploymentGroupArgsAutoRollbackConfigurationIntterface {
-  	enabled?: string;
-	events?: string;
+  enabled?: string;
+  events?: string;
 
 }

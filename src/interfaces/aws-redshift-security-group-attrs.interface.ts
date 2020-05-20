@@ -1,6 +1,4 @@
-
-
 export interface AwsRedshiftSecurityGroupAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsLaunchTemplateArgsLicenseSpecificationIntterface {
-  	license_configuration_arn: string;
+  license_configuration_arn: string;
 
 }

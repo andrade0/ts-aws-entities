@@ -1,6 +1,4 @@
-
-
 export interface AwsCloudwatchLogResourcePolicyAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

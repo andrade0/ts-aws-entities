@@ -2,8 +2,8 @@ import { AwsDirectoryServiceConditionalForwarderArgsIntterface } from '../interf
 
 
 export class AwsDirectoryServiceConditionalForwarderArgs implements AwsDirectoryServiceConditionalForwarderArgsIntterface {
-  	directory_id: string;
-	dns_ips: string;
-	remote_domain_name: string;
+  directory_id: string;
+  dns_ips: string;
+  remote_domain_name: string;
 
 }

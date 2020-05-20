@@ -2,7 +2,7 @@ import { AwsCloudwatchEventTargetArgsRunCommandTargetsIntterface } from '../inte
 
 
 export class AwsCloudwatchEventTargetArgsRunCommandTargets implements AwsCloudwatchEventTargetArgsRunCommandTargetsIntterface {
-  	key: string;
-	values: string;
+  key: string;
+  values: string;
 
 }

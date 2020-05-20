@@ -1,7 +1,5 @@
-
-
 export interface AwsCodepipelineWebhookAttrsIntterface {
-  	id?: string;
-	url?: string;
+  id?: string;
+  url?: string;
 
 }

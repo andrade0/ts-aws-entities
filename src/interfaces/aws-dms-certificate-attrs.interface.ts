@@ -1,6 +1,4 @@
-
-
 export interface AwsDmsCertificateAttrsIntterface {
-  	certificate_arn?: string;
+  certificate_arn?: string;
 
 }

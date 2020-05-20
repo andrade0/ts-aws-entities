@@ -1,6 +1,4 @@
-
-
 export interface AwsSesDomainIdentityArgsIntterface {
-  	domain: string;
+  domain: string;
 
 }

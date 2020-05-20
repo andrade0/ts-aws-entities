@@ -1,6 +1,4 @@
-
-
 export interface AwsDmsReplicationTaskAttrsIntterface {
-  	replication_task_arn?: string;
+  replication_task_arn?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsEksClusterAuthAttrsIntterface {
-  	token?: string;
+  token?: string;
 
 }

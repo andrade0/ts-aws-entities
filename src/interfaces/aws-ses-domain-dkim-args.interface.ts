@@ -1,6 +1,4 @@
-
-
 export interface AwsSesDomainDkimArgsIntterface {
-  	domain: string;
+  domain: string;
 
 }

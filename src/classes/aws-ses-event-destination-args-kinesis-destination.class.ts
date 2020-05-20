@@ -2,7 +2,7 @@ import { AwsSesEventDestinationArgsKinesisDestinationIntterface } from '../inter
 
 
 export class AwsSesEventDestinationArgsKinesisDestination implements AwsSesEventDestinationArgsKinesisDestinationIntterface {
-  	stream_arn: string;
-	role_arn: string;
+  stream_arn: string;
+  role_arn: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueTriggerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

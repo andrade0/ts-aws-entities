@@ -2,7 +2,7 @@ import { AwsAthenaDatabaseArgsEncryptionConfigurationIntterface } from '../inter
 
 
 export class AwsAthenaDatabaseArgsEncryptionConfiguration implements AwsAthenaDatabaseArgsEncryptionConfigurationIntterface {
-  	encryption_option: string;
-	kms_key?: string;
+  encryption_option: string;
+  kms_key?: string;
 
 }

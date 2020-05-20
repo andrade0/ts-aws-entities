@@ -1,7 +1,5 @@
-
-
 export interface AwsGlueTriggerArgsPredicateIntterface {
-  	conditions: string;
-	logical?: string;
+  conditions: string;
+  logical?: string;
 
 }

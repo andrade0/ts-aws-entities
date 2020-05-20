@@ -2,6 +2,6 @@ import { AwsApiGatewayRestApiArgsEndpointConfigurationIntterface } from '../inte
 
 
 export class AwsApiGatewayRestApiArgsEndpointConfiguration implements AwsApiGatewayRestApiArgsEndpointConfigurationIntterface {
-  	types: string;
+  types: string;
 
 }

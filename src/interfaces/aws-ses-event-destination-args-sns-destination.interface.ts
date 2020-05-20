@@ -1,6 +1,4 @@
-
-
 export interface AwsSesEventDestinationArgsSnsDestinationIntterface {
-  	topic_arn: string;
+  topic_arn: string;
 
 }

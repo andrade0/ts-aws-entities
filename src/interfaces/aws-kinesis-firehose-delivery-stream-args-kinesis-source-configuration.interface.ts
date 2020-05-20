@@ -1,7 +1,5 @@
-
-
 export interface AwsKinesisFirehoseDeliveryStreamArgsKinesisSourceConfigurationIntterface {
-  	kinesis_stream_arn: string;
-	role_arn: string;
+  kinesis_stream_arn: string;
+  role_arn: string;
 
 }

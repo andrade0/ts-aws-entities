@@ -1,7 +1,5 @@
-
-
 export interface AwsElbAttachmentArgsIntterface {
-  	elb: string;
-	instance: string;
+  elb: string;
+  instance: string;
 
 }

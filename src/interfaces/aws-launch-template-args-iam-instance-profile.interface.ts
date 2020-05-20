@@ -1,7 +1,5 @@
-
-
 export interface AwsLaunchTemplateArgsIamInstanceProfileIntterface {
-  	arn: string;
-	name: string;
+  arn: string;
+  name: string;
 
 }

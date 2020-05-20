@@ -1,7 +1,5 @@
-
-
 export interface AwsKinesisFirehoseDeliveryStreamArgsProcessingConfigurationIntterface {
-  	enabled?: string;
-	processors?: string;
+  enabled?: string;
+  processors?: string;
 
 }

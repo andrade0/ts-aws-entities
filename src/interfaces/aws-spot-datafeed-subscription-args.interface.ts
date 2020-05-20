@@ -1,7 +1,5 @@
-
-
 export interface AwsSpotDatafeedSubscriptionArgsIntterface {
-  	bucket: string;
-	prefix?: string;
+  bucket: string;
+  prefix?: string;
 
 }

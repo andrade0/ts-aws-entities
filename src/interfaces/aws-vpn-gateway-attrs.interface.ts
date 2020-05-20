@@ -1,6 +1,4 @@
-
-
 export interface AwsVpnGatewayAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

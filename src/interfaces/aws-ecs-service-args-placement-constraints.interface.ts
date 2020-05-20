@@ -1,7 +1,5 @@
-
-
 export interface AwsEcsServiceArgsPlacementConstraintsIntterface {
-  	type: string;
-	expression?: string;
+  type: string;
+  expression?: string;
 
 }

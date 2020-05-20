@@ -1,6 +1,4 @@
-
-
 export interface AwsElasticsearchDomainArgsNodeToNodeEncryptionIntterface {
-  	enabled: string;
+  enabled: string;
 
 }

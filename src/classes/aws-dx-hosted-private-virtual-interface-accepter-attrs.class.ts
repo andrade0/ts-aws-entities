@@ -2,7 +2,7 @@ import { AwsDxHostedPrivateVirtualInterfaceAccepterAttrsIntterface } from '../in
 
 
 export class AwsDxHostedPrivateVirtualInterfaceAccepterAttrs implements AwsDxHostedPrivateVirtualInterfaceAccepterAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

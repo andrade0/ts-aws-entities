@@ -1,6 +1,4 @@
-
-
 export interface AwsSesTemplateAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

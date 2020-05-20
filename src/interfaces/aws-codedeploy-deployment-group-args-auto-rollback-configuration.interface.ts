@@ -1,7 +1,5 @@
-
-
 export interface AwsCodedeployDeploymentGroupArgsAutoRollbackConfigurationIntterface {
-  	enabled?: string;
-	events?: string;
+  enabled?: string;
+  events?: string;
 
 }

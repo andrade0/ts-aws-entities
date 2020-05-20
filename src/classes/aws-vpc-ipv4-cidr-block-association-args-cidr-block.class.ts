@@ -2,7 +2,7 @@ import { AwsVpcIpv4CidrBlockAssociationArgsCidrBlockIntterface } from '../interf
 
 
 export class AwsVpcIpv4CidrBlockAssociationArgsCidrBlock implements AwsVpcIpv4CidrBlockAssociationArgsCidrBlockIntterface {
-  	create: string;
-	delete: string;
+  create: string;
+  delete: string;
 
 }

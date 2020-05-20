@@ -1,7 +1,5 @@
-
-
 export interface AwsMediaStoreContainerAttrsIntterface {
-  	arn?: string;
-	endpoint?: string;
+  arn?: string;
+  endpoint?: string;
 
 }

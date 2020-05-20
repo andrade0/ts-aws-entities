@@ -1,7 +1,5 @@
-
-
 export interface AwsLightsailDomainAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

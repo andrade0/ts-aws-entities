@@ -1,6 +1,4 @@
-
-
 export interface AwsGlueCrawlerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsStoragegatewayGatewayArgsIdIntterface {
-  	create: string;
+  create: string;
 
 }

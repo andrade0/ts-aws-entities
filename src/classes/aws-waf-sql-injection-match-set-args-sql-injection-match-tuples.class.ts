@@ -2,7 +2,7 @@ import { AwsWafSqlInjectionMatchSetArgsSqlInjectionMatchTuplesIntterface } from 
 
 
 export class AwsWafSqlInjectionMatchSetArgsSqlInjectionMatchTuples implements AwsWafSqlInjectionMatchSetArgsSqlInjectionMatchTuplesIntterface {
-  	field_to_match: string;
-	text_transformation: string;
+  field_to_match: string;
+  text_transformation: string;
 
 }

@@ -1,7 +1,7 @@
 import { AwsVpcsArgsFilterIntterface } from '.';
 
 export interface AwsVpcsArgsIntterface {
-  	tags?: string;
-	filter?: AwsVpcsArgsFilterIntterface;
+  tags?: string;
+  filter?: AwsVpcsArgsFilterIntterface;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsCodebuildProjectArgsCacheIntterface {
-  	type?: string;
-	location: string;
+  type?: string;
+  location: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsBillingServiceAccountAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

@@ -2,7 +2,7 @@ import { AwsKinesisFirehoseDeliveryStreamArgsSerializerIntterface } from '../int
 
 
 export class AwsKinesisFirehoseDeliveryStreamArgsSerializer implements AwsKinesisFirehoseDeliveryStreamArgsSerializerIntterface {
-  	orc_ser_de?: string;
-	parquet_ser_de?: string;
+  orc_ser_de?: string;
+  parquet_ser_de?: string;
 
 }

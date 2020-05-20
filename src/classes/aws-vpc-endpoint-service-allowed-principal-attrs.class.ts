@@ -2,6 +2,6 @@ import { AwsVpcEndpointServiceAllowedPrincipalAttrsIntterface } from '../interfa
 
 
 export class AwsVpcEndpointServiceAllowedPrincipalAttrs implements AwsVpcEndpointServiceAllowedPrincipalAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

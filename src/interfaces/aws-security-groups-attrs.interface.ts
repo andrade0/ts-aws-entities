@@ -1,7 +1,5 @@
-
-
 export interface AwsSecurityGroupsAttrsIntterface {
-  	ids?: string;
-	vpc_ids?: string;
+  ids?: string;
+  vpc_ids?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsInspectorAssessmentTemplateAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsIotCertificateAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

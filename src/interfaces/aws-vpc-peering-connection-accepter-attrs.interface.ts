@@ -1,13 +1,11 @@
-
-
 export interface AwsVpcPeeringConnectionAccepterAttrsIntterface {
-  	id?: string;
-	accept_status?: string;
-	vpc_id?: string;
-	peer_vpc_id?: string;
-	peer_owner_id?: string;
-	peer_region?: string;
-	accepter?: string;
-	requester?: string;
+  id?: string;
+  accept_status?: string;
+  vpc_id?: string;
+  peer_vpc_id?: string;
+  peer_owner_id?: string;
+  peer_region?: string;
+  accepter?: string;
+  requester?: string;
 
 }

@@ -1,6 +1,4 @@
-
-
 export interface AwsAppmeshMeshArgsIntterface {
-  	name: string;
+  name: string;
 
 }

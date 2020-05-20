@@ -1,7 +1,5 @@
-
-
 export interface AwsNeptuneClusterParameterGroupAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

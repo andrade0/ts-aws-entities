@@ -1,7 +1,5 @@
-
-
 export interface AwsPinpointAppArgsQuietTimeIntterface {
-  	end?: string;
-	start?: string;
+  end?: string;
+  start?: string;
 
 }

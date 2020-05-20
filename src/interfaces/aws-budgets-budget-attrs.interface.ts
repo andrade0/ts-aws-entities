@@ -1,6 +1,4 @@
-
-
 export interface AwsBudgetsBudgetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

@@ -1,7 +1,5 @@
-
-
 export interface AwsEcrRepositoryPolicyAttrsIntterface {
-  	repository?: string;
-	registry_id?: string;
+  repository?: string;
+  registry_id?: string;
 
 }

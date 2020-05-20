@@ -1,6 +1,4 @@
-
-
 export interface AwsLaunchTemplateArgsMonitoringIntterface {
-  	enabled: string;
+  enabled: string;
 
 }

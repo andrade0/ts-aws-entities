@@ -1,6 +1,4 @@
-
-
 export interface AwsWafregionalXssMatchSetAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

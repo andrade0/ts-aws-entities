@@ -1,7 +1,5 @@
-
-
 export interface AwsDxHostedPrivateVirtualInterfaceAccepterAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

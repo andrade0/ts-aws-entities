@@ -1,7 +1,5 @@
-
-
 export interface AwsEcrLifecyclePolicyArgsIntterface {
-  	repository: string;
-	policy: string;
+  repository: string;
+  policy: string;
 
 }

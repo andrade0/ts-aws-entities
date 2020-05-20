@@ -2,9 +2,9 @@ import { AwsDirectoryServiceDirectoryArgsConnectSettingsIntterface } from '../in
 
 
 export class AwsDirectoryServiceDirectoryArgsConnectSettings implements AwsDirectoryServiceDirectoryArgsConnectSettingsIntterface {
-  	customer_username: string;
-	customer_dns_ips: string;
-	subnet_ids: string;
-	vpc_id: string;
+  customer_username: string;
+  customer_dns_ips: string;
+  subnet_ids: string;
+  vpc_id: string;
 
 }

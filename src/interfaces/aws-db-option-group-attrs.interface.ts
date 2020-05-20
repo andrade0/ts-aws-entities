@@ -1,7 +1,5 @@
-
-
 export interface AwsDbOptionGroupAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

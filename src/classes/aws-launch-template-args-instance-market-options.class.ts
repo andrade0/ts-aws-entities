@@ -2,7 +2,7 @@ import { AwsLaunchTemplateArgsInstanceMarketOptionsIntterface } from '../interfa
 
 
 export class AwsLaunchTemplateArgsInstanceMarketOptions implements AwsLaunchTemplateArgsInstanceMarketOptionsIntterface {
-  	market_type: string;
-	spot_options: string;
+  market_type: string;
+  spot_options: string;
 
 }

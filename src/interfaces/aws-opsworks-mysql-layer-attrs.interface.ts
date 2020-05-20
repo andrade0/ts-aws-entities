@@ -1,6 +1,4 @@
-
-
 export interface AwsOpsworksMysqlLayerAttrsIntterface {
-  	id?: string;
+  id?: string;
 
 }

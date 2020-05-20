@@ -2,6 +2,6 @@ import { AwsIamOpenidConnectProviderAttrsIntterface } from '../interfaces';
 
 
 export class AwsIamOpenidConnectProviderAttrs implements AwsIamOpenidConnectProviderAttrsIntterface {
-  	arn?: string;
+  arn?: string;
 
 }

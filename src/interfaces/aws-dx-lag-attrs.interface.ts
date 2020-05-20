@@ -1,7 +1,5 @@
-
-
 export interface AwsDxLagAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }

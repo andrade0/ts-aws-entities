@@ -1,7 +1,5 @@
-
-
 export interface AwsLbListenerAttrsIntterface {
-  	id?: string;
-	arn?: string;
+  id?: string;
+  arn?: string;
 
 }
