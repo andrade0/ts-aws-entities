@@ -1,78 +1,124 @@
 #Install: 
 ```
-npm install dynamodb-repository
+npm install ts-aws-entities -save
 ```
 
 ###Usage exemple: 
 ```
-import {DiggingDynamodbClient, DiggingDynamodbClientInterface} from "digging-dynamodb-client";
+import { search } from "ts-aws-entities";
 
-// define primary key of your table. It can be one or to fields depends on your dynamoDb table setup
-class TableKey{
-  id: string;
-}
+const result: awsItem[] = search('lambda');
 
-// Define the Class your repository is going to use.
-class User{
-  id: string;
-  nameName: string;
-  email: string;
-}
-
-//Create your repository class and extend from DiggingDynamodbClient, the generic types setted like this: 
-class UserRepository extends DiggingDynamodbClient<User, TableKey> {
-  constructor(
-    public TableName = 'users',
-    public classType = User,
-  ) {
-    super(TableName);
-  }
-}
-
-//get an instance of your repository
-const repository = new UserRepository();
-
-// just use it like this: 
-(async () => {
-  const u = new User();
-  u.id = 'FEZF43TFDF';
-  u.nameName = 'andFDrade';
-  u.email = 'andradeolivier@gmail.com';
-  const key = new TableKey();
-  key.id = u.id;
-  await repository.insertOne(u);
-  const u2 = new User();
-  u2.id = u.id;
-  u2.nameName = u.nameName;
-  u2.email = 'pauline@gmail.com';
-  await repository.updateOne(key, u2);
-  const user: User = await repository.findOne(key);
-  console.log(user)
-  await repository.deleteOne(key, 'nameName = :name', {':name': 'andFDrade'});
-  const users = await repository.getAll();
-  console.log(users)
-  await repository.addMany([
-    {id: 'RE4', nameName: 'ggfg', email: 'fdfdfd'},
-    {id: 'FRE4', nameName: 'fffff', email: 'fdffffdfd'},
-    {id: 'RcE4', nameName: 'ggfg', email: 'fdfdfd'},
-    {id: 'RjEG4', nameName: 'gfffffffgfg', email: 'fdfdfd'},
-    {id: 'RfE4', nameName: 'ggfg', email: 'fdfdffffd'},
-    {id: 'RtE4', nameName: 'fffffff', email: 'fdfdfd'},
-    {id: 'RttE4', nameName: 'ggfg', email: 'fdfdfd'},
-  ]);
-  const users1 = await repository.getAll();
-  console.log(users1)
-})();
-
-
+console.log(result);
 ```
-
-##.env variables:
+Output: 
+````
+[ { name: 'aws_lambda_function',
+    class: 'AwsLambdaFunction',
+    type: 'resource',
+    instance:
+     AwsLambdaFunction {
+       name: 'aws_lambda_function',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_function.html',
+       groupName: 'Lambda Resources' },
+    metaData:
+     { name: 'aws_lambda_function',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_function.html',
+       groupName: 'Lambda Resources',
+       args: [Array],
+       attrs: [Array] } },
+  { name: 'aws_lambda_invocation',
+    class: 'AwsLambdaInvocation',
+    type: 'data_source',
+    instance:
+     AwsLambdaInvocation {
+       name: 'aws_lambda_invocation',
+       type: 'data_source',
+       url:
+        'https://www.terraform.io/docs/providers/aws/d/lambda_invocation.html',
+       groupName: 'Data Sources' },
+    metaData:
+     { name: 'aws_lambda_invocation',
+       type: 'data_source',
+       url:
+        'https://www.terraform.io/docs/providers/aws/d/lambda_invocation.html',
+       groupName: 'Data Sources',
+       args: [Array],
+       attrs: [Array] } },
+  { name: 'aws_lambda_alias',
+    class: 'AwsLambdaAlias',
+    type: 'resource',
+    instance:
+     AwsLambdaAlias {
+       name: 'aws_lambda_alias',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_alias.html',
+       groupName: 'Lambda Resources' },
+    metaData:
+     { name: 'aws_lambda_alias',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_alias.html',
+       groupName: 'Lambda Resources',
+       args: [Array],
+       attrs: [Array] } },
+  { name: 'aws_lambda_event_source_mapping',
+    class: 'AwsLambdaEventSourceMapping',
+    type: 'resource',
+    instance:
+     AwsLambdaEventSourceMapping {
+       name: 'aws_lambda_event_source_mapping',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_event_source_mapping.html',
+       groupName: 'Lambda Resources' },
+    metaData:
+     { name: 'aws_lambda_event_source_mapping',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_event_source_mapping.html',
+       groupName: 'Lambda Resources',
+       args: [Array],
+       attrs: [Array] } },
+  { name: 'aws_lambda_layer_version',
+    class: 'AwsLambdaLayerVersion',
+    type: 'resource',
+    instance:
+     AwsLambdaLayerVersion {
+       name: 'aws_lambda_layer_version',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_layer_version.html',
+       groupName: 'Lambda Resources' },
+    metaData:
+     { name: 'aws_lambda_layer_version',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_layer_version.html',
+       groupName: 'Lambda Resources',
+       args: [Array],
+       attrs: [Array] } },
+  { name: 'aws_lambda_permission',
+    class: 'AwsLambdaPermission',
+    type: 'resource',
+    instance:
+     AwsLambdaPermission {
+       name: 'aws_lambda_permission',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_permission.html',
+       groupName: 'Lambda Resources' },
+    metaData:
+     { name: 'aws_lambda_permission',
+       type: 'resource',
+       url:
+        'https://www.terraform.io/docs/providers/aws/r/lambda_permission.html',
+       groupName: 'Lambda Resources',
+       args: [Array],
+       attrs: [] } } ]
 ```
-LOCAL=true // will connect to http://localhost:8000
-DEBUG=false
-```
-
-##AWS Credentials
-
-They are taken from yout local setup, usualy ~/.aws folder

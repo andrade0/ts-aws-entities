@@ -1,6 +1,6 @@
 {
   "name": "ts-aws-entities",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "build/src/main.js",
   "types": "build/src/main.d.ts",
   "repository": {
@@ -40,5 +40,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "tslib": "~1.10.0"
-  }
+  },
+  "keywords": ["aws", "serverless", "lambda",  "apigateway", "typescript", "terraform"]
 }

@@ -1051,7 +1051,7 @@ export const constructors = {
   AwsVpnGatewayRoutePropagation: AwsVpnGatewayRoutePropagation,
 };
 
-interface awsItem {
+export interface awsItem {
   name: string;
   class: string;
   type: string;
