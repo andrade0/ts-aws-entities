@@ -1,6 +1,6 @@
 {
   "name": "ts-aws-entities",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "build/src/main.js",
   "types": "build/src/main.d.ts",
   "repository": {
